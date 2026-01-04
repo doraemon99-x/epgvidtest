@@ -21,8 +21,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/gItx9_cSQhwdu9Px_Yqbi0eV0UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4823385/a90cdb.jpg" />
   </channel>
   <channel id="vidio-19543">
-    <display-name>Kendal Tornado FC vs PSS Sleman - Pegadaian Championship</display-name>
-    <icon src="https://thumbor.prod.vidiocdn.com/BCqDZm8vV3pSOHX8LSQ4HwgLYZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827315/5039fe.jpg" />
+    <display-name>Persipura Jayapura vs Deltras FC - Pegadaian Championship</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/fkj8CKhQv342WWBz6RWyh_9VZ6E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824482/6326a1.jpg" />
   </channel>
   <channel id="vidio-19541">
     <display-name>Adhyaksa FC vs Garudayaksa FC - Pegadaian Championship</display-name>
@@ -52,6 +52,10 @@
     <title>PERSIK Kediri vs PERSIB - BRI Super League</title>
     <desc>Live Event</desc>
   </programme>
+  <programme start="20260104062200 +0000" stop="20260104160000 +0000" channel="vidio-19384">
+    <title>Malut United FC vs PSBS Biak - BRI Super League</title>
+    <desc>Live Event</desc>
+  </programme>
   <programme start="20260104080000 +0000" stop="20260104104000 +0000" channel="vidio-205">
     <title>PSIM Jogja vs Semen Padang FC - BRI Super League</title>
     <desc>Live Event</desc>
@@ -78,6 +82,10 @@
   </programme>
   <programme start="20260105115200 +0000" stop="20260105140000 +0000" channel="vidio-19543">
     <title>Kendal Tornado FC vs PSS Sleman - Pegadaian Championship</title>
+    <desc>Live Event</desc>
+  </programme>
+  <programme start="20260104062200 +0000" stop="20260104090000 +0000" channel="vidio-19543">
+    <title>Persipura Jayapura vs Deltras FC - Pegadaian Championship</title>
     <desc>Live Event</desc>
   </programme>
 </tv>
