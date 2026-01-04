@@ -40,6 +40,9 @@ jobs:
         run: |
           php scripts/generate_m3u_master.php
 
+      - name: Generate EPG XML
+        run: |
+          php scripts/generate_epg.php
 
       - name: Commit data if changed
         run: |
