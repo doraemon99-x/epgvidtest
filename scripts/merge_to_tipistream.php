@@ -1,9 +1,10 @@
 <?php
 /**
  * Merge master M3U8 into existing HTML playlist
+ * RAW M3U (NO HTML ESCAPE, NO #EXTM3U)
  */
 
-$sourceM3U = "data/playlists/all.m3u8";
+$sourceM3U  = "data/playlists/all.m3u8";
 $targetHTML = "data/playlists/tipistream.html";
 
 if (!file_exists($sourceM3U) || !file_exists($targetHTML)) {
@@ -11,20 +12,25 @@ if (!file_exists($sourceM3U) || !file_exists($targetHTML)) {
     exit(1);
 }
 
-$m3u = trim(file_get_contents($sourceM3U));
-$html = file_get_contents($targetHTML);
+$m3uLines = file($sourceM3U, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+$html     = file_get_contents($targetHTML);
 
 /* =========================
-   CONVERT M3U -> HTML
+   FILTER M3U CONTENT
    ========================= */
-$lines = explode("\n", $m3u);
-$output = "<pre>\n";
+$filtered = [];
 
-foreach ($lines as $line) {
-    $output .= htmlspecialchars($line) . "\n";
+foreach ($m3uLines as $line) {
+
+    // HAPUS header M3U
+    if (trim($line) === '#EXTM3U') {
+        continue;
+    }
+
+    $filtered[] = $line;
 }
 
-$output .= "</pre>";
+$m3uContent = implode("\n", $filtered);
 
 /* =========================
    REPLACE BETWEEN MARKERS
@@ -33,7 +39,7 @@ $pattern = '/<!-- START AUTO VIDIO -->(.*?)<!-- END AUTO VIDIO -->/s';
 
 $replacement = <<<HTML
 <!-- START AUTO VIDIO -->
-{$output}
+{$m3uContent}
 <!-- END AUTO VIDIO -->
 HTML;
 
@@ -46,4 +52,4 @@ $html = preg_replace($pattern, $replacement, $html);
 
 file_put_contents($targetHTML, $html);
 
-echo "Merged master playlist into tipistream.html\n";
+echo "Merged RAW M3U into tipistream.html\n";
