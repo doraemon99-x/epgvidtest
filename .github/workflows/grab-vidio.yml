@@ -25,6 +25,10 @@ jobs:
 
       - name: Generate playlist & epg
         run: php scripts/generate_from_json.php
+        
+      - name: Merge playlist into tipistream.html
+        run: |
+          php scripts/merge_to_tipistream.php
 
       - name: Commit if changed
         run: |
