@@ -1,16 +1,5 @@
 [
     {
-        "schedule_id": 4824480,
-        "livestreaming_id": 19383,
-        "title": "Jelang Kick Off - Bali United FC vs Arema FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/n1WDGuRAbRTDD9JkTciWxlh8PZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824480/53d2ad.jpg",
-        "start_time": "2026-01-04T11:30:00.000Z",
-        "end_time": "2026-01-04T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19383-bri-super-league?schedule_id=4824480"
-    },
-    {
         "schedule_id": 4824481,
         "livestreaming_id": 19988,
         "title": "Bali United FC vs Arema FC - BRI Super League",
@@ -110,17 +99,6 @@
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827314"
     },
     {
-        "schedule_id": 4827681,
-        "livestreaming_id": 19355,
-        "title": "Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/83N3eUUhMARUz2frrMxAIoDpJlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827681/91efc2.jpg",
-        "start_time": "2026-01-05T11:30:00.000Z",
-        "end_time": "2026-01-05T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4827681"
-    },
-    {
         "schedule_id": 4827313,
         "livestreaming_id": 19354,
         "title": "PERSIK Kediri vs PERSIB - BRI Super League",
@@ -130,6 +108,17 @@
         "start_time": "2026-01-05T11:30:00.000Z",
         "end_time": "2026-01-05T14:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827313"
+    },
+    {
+        "schedule_id": 4827681,
+        "livestreaming_id": 19355,
+        "title": "Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/83N3eUUhMARUz2frrMxAIoDpJlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827681/91efc2.jpg",
+        "start_time": "2026-01-05T11:30:00.000Z",
+        "end_time": "2026-01-05T12:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4827681"
     },
     {
         "schedule_id": 4827315,

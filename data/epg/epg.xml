@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19383">
-  <display-name>Jelang Kick Off - Bali United FC vs Arema FC - BRI Super League</display-name>
-</channel>
-<programme start="20260104113000 +0000" stop="20260104120000 +0000" channel="vidio-19383">
-  <title>Jelang Kick Off - Bali United FC vs Arema FC - BRI Super League</title>
-</programme>
 <channel id="vidio-19988">
   <display-name>Bali United FC vs Arema FC - BRI Super League</display-name>
 </channel>
@@ -60,17 +54,17 @@
 <programme start="20260105082200 +0000" stop="20260105103000 +0000" channel="vidio-19543">
   <title>PS. Barito Putera vs Persiku Kudus - Pegadaian Championship</title>
 </programme>
-<channel id="vidio-19355">
-  <display-name>Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League</display-name>
-</channel>
-<programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="vidio-19355">
-  <title>Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League</title>
-</programme>
 <channel id="vidio-19354">
   <display-name>PERSIK Kediri vs PERSIB - BRI Super League</display-name>
 </channel>
 <programme start="20260105113000 +0000" stop="20260105140000 +0000" channel="vidio-19354">
   <title>PERSIK Kediri vs PERSIB - BRI Super League</title>
+</programme>
+<channel id="vidio-19355">
+  <display-name>Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League</display-name>
+</channel>
+<programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="vidio-19355">
+  <title>Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League</title>
 </programme>
 <channel id="vidio-19543">
   <display-name>Kendal Tornado FC vs PSS Sleman - Pegadaian Championship</display-name>
