@@ -1,44 +1,13 @@
-name: Grab Vidio Livestreaming Data
+- name: Commit data if changed
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *" # tiap jam
+    git add data/
 
-permissions:
-  contents: write   # ⬅️ WAJIB untuk push
-
-jobs:
-  grab:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: "8.2"
-
-      - name: Run grabber
-        env:
-          VIDIO_API_KEY: ${{ secrets.VIDIO_API_KEY }}
-        run: |
-          php scripts/grab_vidio.php
-
-      - name: Commit result.json if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add result.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update vidio livestreaming data"
-            git push
-          fi
+    if git diff --cached --quiet; then
+      echo "No changes"
+    else
+      git commit -m "chore: update vidio data split by channel & league"
+      git push
+    fi
