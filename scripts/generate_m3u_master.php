@@ -37,7 +37,7 @@ foreach ($files as $file) {
         $logo  = $item['cover_url'] ?? '';
         $lid   = $item['livestreaming_id'];
 
-        $group = "#1. {$channelName}";
+        $group = "{$channelName}";
 
         $m3u .= <<<M3U
 #EXTINF:-1 tvg-logo="{$logo}" group-title="{$group}",{$title}
