@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg" group-title="#1. Bri super league 05 jan 2026 18 30",PERSIK Kediri vs PERSIB - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19354
