@@ -12,18 +12,6 @@
 <programme start="20260104062200 +0000" stop="20260104160000 +0000" channel="vidio-19384">
   <title>Malut United FC vs PSBS Biak - BRI Super League</title>
 </programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 3 (Night Session)</display-name>
-</channel>
-<programme start="20260104063000 +0000" stop="20260104153000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 3 (Night Session)</title>
-</programme>
-<channel id="vidio-17926">
-  <display-name>Macau Black Bears vs Taoyuan Pauian Pilots - EASL</display-name>
-</channel>
-<programme start="20260104070000 +0000" stop="20260104090000 +0000" channel="vidio-17926">
-  <title>Macau Black Bears vs Taoyuan Pauian Pilots - EASL</title>
-</programme>
 <channel id="vidio-205">
   <display-name>PSIM Jogja vs Semen Padang FC - BRI Super League</display-name>
 </channel>
@@ -48,12 +36,6 @@
 <programme start="20260104082200 +0000" stop="20260104110000 +0000" channel="vidio-19542">
   <title>Sriwijaya FC vs PSPS Pekanbaru - Pegadaian Championship</title>
 </programme>
-<channel id="vidio-19404">
-  <display-name>Lazio vs Napoli - Serie A</display-name>
-</channel>
-<programme start="20260104111500 +0000" stop="20260104133000 +0000" channel="vidio-19404">
-  <title>Lazio vs Napoli - Serie A</title>
-</programme>
 <channel id="vidio-19383">
   <display-name>Jelang Kick Off - Bali United FC vs Arema FC - BRI Super League</display-name>
 </channel>
@@ -66,23 +48,11 @@
 <programme start="20260104115200 +0000" stop="20260104150000 +0000" channel="vidio-19543">
   <title>Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship</title>
 </programme>
-<channel id="vidio-6685">
-  <display-name>Birmingham vs Coventry City - EFL Championship</display-name>
-</channel>
-<programme start="20260104115500 +0000" stop="20260104140000 +0000" channel="vidio-6685">
-  <title>Birmingham vs Coventry City - EFL Championship</title>
-</programme>
 <channel id="vidio-19988">
   <display-name>Bali United FC vs Arema FC - BRI Super League</display-name>
 </channel>
 <programme start="20260104120000 +0000" stop="20260104150000 +0000" channel="vidio-19988">
   <title>Bali United FC vs Arema FC - BRI Super League</title>
-</programme>
-<channel id="vidio-9182">
-  <display-name>Leeds United vs Man United - Premier League</display-name>
-</channel>
-<programme start="20260104120000 +0000" stop="20260104143000 +0000" channel="vidio-9182">
-  <title>Leeds United vs Man United - Premier League</title>
 </programme>
 <channel id="vidio-6299">
   <display-name>Sevilla vs Levante - LaLiga</display-name>
@@ -90,65 +60,11 @@
 <programme start="20260104130000 +0000" stop="20260104150000 +0000" channel="vidio-6299">
   <title>Sevilla vs Levante - LaLiga</title>
 </programme>
-<channel id="vidio-19404">
-  <display-name>Fiorentina vs Cremonese - Serie A</display-name>
-</channel>
-<programme start="20260104134500 +0000" stop="20260104160000 +0000" channel="vidio-19404">
-  <title>Fiorentina vs Cremonese - Serie A</title>
-</programme>
-<channel id="vidio-9182">
-  <display-name>Fulham vs Liverpool - Premier League</display-name>
-</channel>
-<programme start="20260104143000 +0000" stop="20260104170000 +0000" channel="vidio-9182">
-  <title>Fulham vs Liverpool - Premier League</title>
-</programme>
-<channel id="vidio-19375">
-  <display-name>Everton vs Brentford - Premier League</display-name>
-</channel>
-<programme start="20260104145000 +0000" stop="20260104170000 +0000" channel="vidio-19375">
-  <title>Everton vs Brentford - Premier League</title>
-</programme>
-<channel id="vidio-18796">
-  <display-name>Newcastle vs Crystal Palace - Premier League</display-name>
-</channel>
-<programme start="20260104145000 +0000" stop="20260104170000 +0000" channel="vidio-18796">
-  <title>Newcastle vs Crystal Palace - Premier League</title>
-</programme>
-<channel id="vidio-9183">
-  <display-name>Tottenham vs Sunderland - Premier League</display-name>
-</channel>
-<programme start="20260104150000 +0000" stop="20260104170000 +0000" channel="vidio-9183">
-  <title>Tottenham vs Sunderland - Premier League</title>
-</programme>
 <channel id="vidio-6299">
   <display-name>Real Madrid vs Real Betis - LaLiga</display-name>
 </channel>
 <programme start="20260104151500 +0000" stop="20260104171500 +0000" channel="vidio-6299">
   <title>Real Madrid vs Real Betis - LaLiga</title>
-</programme>
-<channel id="vidio-6317">
-  <display-name>Morocco vs Tanzania - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260104154800 +0000" stop="20260104180000 +0000" channel="vidio-6317">
-  <title>Morocco vs Tanzania - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-19404">
-  <display-name>Verona vs Torino - Serie A</display-name>
-</channel>
-<programme start="20260104164500 +0000" stop="20260104190000 +0000" channel="vidio-19404">
-  <title>Verona vs Torino - Serie A</title>
-</programme>
-<channel id="vidio-9182">
-  <display-name>Man City vs Chelsea - Premier League</display-name>
-</channel>
-<programme start="20260104170000 +0000" stop="20260104193000 +0000" channel="vidio-9182">
-  <title>Man City vs Chelsea - Premier League</title>
-</programme>
-<channel id="vidio-17139">
-  <display-name>Damac vs Al-Hilal - ROSHN Saudi League</display-name>
-</channel>
-<programme start="20260104171500 +0000" stop="20260104193000 +0000" channel="vidio-17139">
-  <title>Damac vs Al-Hilal - ROSHN Saudi League</title>
 </programme>
 <channel id="vidio-6299">
   <display-name>Mallorca vs Girona - LaLiga</display-name>
@@ -156,65 +72,17 @@
 <programme start="20260104171500 +0000" stop="20260104193000 +0000" channel="vidio-6299">
   <title>Mallorca vs Girona - LaLiga</title>
 </programme>
-<channel id="vidio-19536">
-  <display-name>(Data Zone) Man City vs Chelsea - Premier League</display-name>
-</channel>
-<programme start="20260104172000 +0000" stop="20260104220000 +0000" channel="vidio-19536">
-  <title>(Data Zone) Man City vs Chelsea - Premier League</title>
-</programme>
 <channel id="vidio-17875">
   <display-name>Alaves vs Oviedo - LaLiga</display-name>
 </channel>
 <programme start="20260104172500 +0000" stop="20260104193000 +0000" channel="vidio-17875">
   <title>Alaves vs Oviedo - LaLiga</title>
 </programme>
-<channel id="vidio-19623">
-  <display-name>Green Bay Packers vs Minnesota Vikings - NFL</display-name>
-</channel>
-<programme start="20260104180000 +0000" stop="20260104212500 +0000" channel="vidio-19623">
-  <title>Green Bay Packers vs Minnesota Vikings - NFL</title>
-</programme>
-<channel id="vidio-6317">
-  <display-name>South Africa vs Cameroon - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260104184800 +0000" stop="20260104210000 +0000" channel="vidio-6317">
-  <title>South Africa vs Cameroon - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-20110">
-  <display-name>Inter vs Bologna - Serie A</display-name>
-</channel>
-<programme start="20260104194500 +0000" stop="20260104214500 +0000" channel="vidio-20110">
-  <title>Inter vs Bologna - Serie A</title>
-</programme>
 <channel id="vidio-6299">
   <display-name>Real Sociedad vs Atletico Madrid - LaLiga</display-name>
 </channel>
 <programme start="20260104195500 +0000" stop="20260104220000 +0000" channel="vidio-6299">
   <title>Real Sociedad vs Atletico Madrid - LaLiga</title>
-</programme>
-<channel id="vidio-19623">
-  <display-name>Los Angeles Chargers vs Denver Broncos - NFL</display-name>
-</channel>
-<programme start="20260104212500 +0000" stop="20260105020000 +0000" channel="vidio-19623">
-  <title>Los Angeles Chargers vs Denver Broncos - NFL</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 4 (Day Session)</display-name>
-</channel>
-<programme start="20260104230000 +0000" stop="20260105063000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 4 (Day Session)</title>
-</programme>
-<channel id="vidio-19548">
-  <display-name>Baltimore Ravens vs Pittsburgh Steelers - NFL</display-name>
-</channel>
-<programme start="20260105012000 +0000" stop="20260105060000 +0000" channel="vidio-19548">
-  <title>Baltimore Ravens vs Pittsburgh Steelers - NFL</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 4 (Night Session)</display-name>
-</channel>
-<programme start="20260105063000 +0000" stop="20260105153000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 4 (Night Session)</title>
 </programme>
 <channel id="vidio-19354">
   <display-name>Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League</display-name>
@@ -245,83 +113,5 @@
 </channel>
 <programme start="20260105115200 +0000" stop="20260105140000 +0000" channel="vidio-19543">
   <title>Kendal Tornado FC vs PSS Sleman - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Egypt vs Benin - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260105154800 +0000" stop="20260105180000 +0000" channel="vidio-6299">
-  <title>Egypt vs Benin - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-6317">
-  <display-name>Nigeria vs Mozambique - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260105184800 +0000" stop="20260105210000 +0000" channel="vidio-6317">
-  <title>Nigeria vs Mozambique - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 5 (Day Session)</display-name>
-</channel>
-<programme start="20260105230000 +0000" stop="20260106063000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 5 (Day Session)</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 5 (Night Session)</display-name>
-</channel>
-<programme start="20260106063000 +0000" stop="20260106153000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 5 (Night Session)</title>
-</programme>
-<channel id="vidio-19404">
-  <display-name>Pisa vs Como - Serie A</display-name>
-</channel>
-<programme start="20260106134500 +0000" stop="20260106160000 +0000" channel="vidio-19404">
-  <title>Pisa vs Como - Serie A</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Algeria vs DR Congo - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260106154800 +0000" stop="20260106180000 +0000" channel="vidio-6299">
-  <title>Algeria vs DR Congo - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-20108">
-  <display-name>Lecce vs Roma - Serie A</display-name>
-</channel>
-<programme start="20260106164500 +0000" stop="20260106190000 +0000" channel="vidio-20108">
-  <title>Lecce vs Roma - Serie A</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Ivory Coast vs Burkina Faso - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260106184800 +0000" stop="20260106210000 +0000" channel="vidio-6299">
-  <title>Ivory Coast vs Burkina Faso - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-20108">
-  <display-name>Sassuolo vs Juventus - Serie A</display-name>
-</channel>
-<programme start="20260106193000 +0000" stop="20260106220000 +0000" channel="vidio-20108">
-  <title>Sassuolo vs Juventus - Serie A</title>
-</programme>
-<channel id="vidio-18797">
-  <display-name>West Ham vs Nottingham Forest - Premier League</display-name>
-</channel>
-<programme start="20260106195000 +0000" stop="20260106220000 +0000" channel="vidio-18797">
-  <title>West Ham vs Nottingham Forest - Premier League</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 6 (Day Session)</display-name>
-</channel>
-<programme start="20260106230000 +0000" stop="20260107090000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 6 (Day Session)</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>United Cup 2026 - Day 6 (Night Session)</display-name>
-</channel>
-<programme start="20260107090000 +0000" stop="20260107153000 +0000" channel="vidio-17875">
-  <title>United Cup 2026 - Day 6 (Night Session)</title>
-</programme>
-<channel id="vidio-19672">
-  <display-name>Hong Kong Eastern vs Seoul SK Knights - EASL</display-name>
-</channel>
-<programme start="20260107120000 +0000" stop="20260107160000 +0000" channel="vidio-19672">
-  <title>Hong Kong Eastern vs Seoul SK Knights - EASL</title>
 </programme>
 </tv>

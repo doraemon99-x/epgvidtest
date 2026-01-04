@@ -15,22 +15,6 @@ https://tipiku.biz.id/dash/19543
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19384
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/Vok7u6fc2WuV2fqCMfEO4l5Q9ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819780/cf30b3.jpg" group-title="BRI Super League",United Cup 2026 - Day 3 (Night Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-17926" tvg-logo="https://thumbor.prod.vidiocdn.com/a1_ROnuVjdWlBV63b5mvXAiBsN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4823384/ea2cfd.jpg" group-title="BRI Super League",Macau Black Bears vs Taoyuan Pauian Pilots - EASL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17926
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17926
 #EXTINF:-1 tvg-id="vidio-205" tvg-logo="https://thumbor.prod.vidiocdn.com/gItx9_cSQhwdu9Px_Yqbi0eV0UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4823385/a90cdb.jpg" group-title="BRI Super League",PSIM Jogja vs Semen Padang FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -63,14 +47,6 @@ https://tipiku.biz.id/dash/19541
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19542
-#EXTINF:-1 tvg-id="vidio-19404" tvg-logo="https://thumbor.prod.vidiocdn.com/CTyuyZtgjTtsOJNg16JUjxXeUog=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4825573/2fd38d.jpg" group-title="BRI Super League",Lazio vs Napoli - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19404
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19404
 #EXTINF:-1 tvg-id="vidio-19383" tvg-logo="https://thumbor.prod.vidiocdn.com/n1WDGuRAbRTDD9JkTciWxlh8PZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824480/53d2ad.jpg" group-title="BRI Super League",Jelang Kick Off - Bali United FC vs Arema FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,14 +63,6 @@ https://tipiku.biz.id/dash/19383
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19543
-#EXTINF:-1 tvg-id="vidio-6685" tvg-logo="https://thumbor.prod.vidiocdn.com/JZCuu8YI3EEu1WPEZq2D81BfCw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819783/552cf7.jpg" group-title="BRI Super League",Birmingham vs Coventry City - EFL Championship
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6685
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6685
 #EXTINF:-1 tvg-id="vidio-19988" tvg-logo="https://thumbor.prod.vidiocdn.com/GMvt8hLP4rGpTnVuBYrK4ahOxQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824481/7b82ec.jpg" group-title="BRI Super League",Bali United FC vs Arema FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -103,14 +71,6 @@ https://tipiku.biz.id/dash/6685
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19988
-#EXTINF:-1 tvg-id="vidio-9182" tvg-logo="https://thumbor.prod.vidiocdn.com/qNpkP0jBJO_6gwq_WsegZRRFsxY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802201/852a55.jpg" group-title="BRI Super League",Leeds United vs Man United - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/9182
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/9182
 #EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/dVdAL8G50Pz1_iEDot-B5r5wrH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819776/8755d4.jpg" group-title="BRI Super League",Sevilla vs Levante - LaLiga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -119,46 +79,6 @@ https://tipiku.biz.id/dash/9182
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-19404" tvg-logo="https://thumbor.prod.vidiocdn.com/un2kc3Lwfh1UXr43TsAMeY-Diss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4825574/915fcd.jpg" group-title="BRI Super League",Fiorentina vs Cremonese - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19404
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19404
-#EXTINF:-1 tvg-id="vidio-9182" tvg-logo="https://thumbor.prod.vidiocdn.com/bIlWSYWYaGUPWKja5NmMXPiK6kY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802202/81601f.jpg" group-title="BRI Super League",Fulham vs Liverpool - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/9182
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/9182
-#EXTINF:-1 tvg-id="vidio-19375" tvg-logo="https://thumbor.prod.vidiocdn.com/GRdiDp2B85zbwGOxaQDAk9XpYdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802190/4c48eb.jpg" group-title="BRI Super League",Everton vs Brentford - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19375
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19375
-#EXTINF:-1 tvg-id="vidio-18796" tvg-logo="https://thumbor.prod.vidiocdn.com/A6IPiSQ1lTeIdsP1bv8_WZgGguU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802194/c8c638.jpg" group-title="BRI Super League",Newcastle vs Crystal Palace - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/18796
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/18796
-#EXTINF:-1 tvg-id="vidio-9183" tvg-logo="https://thumbor.prod.vidiocdn.com/WItBeT9fCyS5BYaTBgQExyPqRP4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802196/7d80ca.jpg" group-title="BRI Super League",Tottenham vs Sunderland - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/9183
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/9183
 #EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/miz9h1PoFaJ5XKpniwd2r1pPdgo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819775/425f5b.jpg" group-title="BRI Super League",Real Madrid vs Real Betis - LaLiga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -167,38 +87,6 @@ https://tipiku.biz.id/dash/9183
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-6317" tvg-logo="https://thumbor.prod.vidiocdn.com/BiUnjRQ79MObMbsq03p5sm3BIgE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827327/36dc82.jpg" group-title="BRI Super League",Morocco vs Tanzania - TotalEnergies Africa Cup of Nations
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6317
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6317
-#EXTINF:-1 tvg-id="vidio-19404" tvg-logo="https://thumbor.prod.vidiocdn.com/iwNXhCgSShshvIkThX4OxRSthxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827331/d4ec4f.jpg" group-title="BRI Super League",Verona vs Torino - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19404
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19404
-#EXTINF:-1 tvg-id="vidio-9182" tvg-logo="https://thumbor.prod.vidiocdn.com/F2gSRwaDjYYF_W5dL97Ro5YB2lY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827336/8a616d.jpg" group-title="BRI Super League",Man City vs Chelsea - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/9182
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/9182
-#EXTINF:-1 tvg-id="vidio-17139" tvg-logo="https://thumbor.prod.vidiocdn.com/KpkwFs9twtAvusijV-21hzxEdvs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827322/b6c88b.jpg" group-title="BRI Super League",Damac vs Al-Hilal - ROSHN Saudi League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17139
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17139
 #EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/tBh3RNYt5OC9y2hXZ77M03Q8Yuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827323/b38477.jpg" group-title="BRI Super League",Mallorca vs Girona - LaLiga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -207,14 +95,6 @@ https://tipiku.biz.id/dash/17139
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-19536" tvg-logo="https://thumbor.prod.vidiocdn.com/I5yNz3vg_xzFEC1ADZNhSYRgXSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827311/6dc713.jpg" group-title="BRI Super League",(Data Zone) Man City vs Chelsea - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19536
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19536
 #EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/NAZHoHgAmh05V19hF-s8OgcIywo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827317/7d6dae.jpg" group-title="BRI Super League",Alaves vs Oviedo - LaLiga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -223,30 +103,6 @@ https://tipiku.biz.id/dash/19536
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-19623" tvg-logo="https://thumbor.prod.vidiocdn.com/hGk2VujGWA2mn4iyaLjoqiy49lI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827333/a944e1.jpg" group-title="BRI Super League",Green Bay Packers vs Minnesota Vikings - NFL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19623
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19623
-#EXTINF:-1 tvg-id="vidio-6317" tvg-logo="https://thumbor.prod.vidiocdn.com/Kv86Z6cMKsUnlR2NMT7z0edmXzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827328/d47df1.jpg" group-title="BRI Super League",South Africa vs Cameroon - TotalEnergies Africa Cup of Nations
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6317
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6317
-#EXTINF:-1 tvg-id="vidio-20110" tvg-logo="https://thumbor.prod.vidiocdn.com/hMKqwK9rxGImauo4V_lgQTVSoo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4820639/2f631d.jpg" group-title="BRI Super League",Inter vs Bologna - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20110
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20110
 #EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/ApbEcoyBrtiSmB6_EY_SfhflwI8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827324/aabe5f.jpg" group-title="BRI Super League",Real Sociedad vs Atletico Madrid - LaLiga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -255,38 +111,6 @@ https://tipiku.biz.id/dash/20110
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-19623" tvg-logo="https://thumbor.prod.vidiocdn.com/tsI4VMhmb24BpLPsbB9Yp1QSIQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827334/8d6775.jpg" group-title="BRI Super League",Los Angeles Chargers vs Denver Broncos - NFL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19623
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19623
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/LmTK4xnK8u19a0LpXXTUJqwpeJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827318/dc58c0.jpg" group-title="BRI Super League",United Cup 2026 - Day 4 (Day Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-19548" tvg-logo="https://thumbor.prod.vidiocdn.com/LaI7qpn-sPpRBrpnocVLuPlkdL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827335/f2f932.jpg" group-title="BRI Super League",Baltimore Ravens vs Pittsburgh Steelers - NFL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19548
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19548
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/0cvt-wtvqu0q4eqaDDncye4K6TI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827319/e518b1.jpg" group-title="BRI Super League",United Cup 2026 - Day 4 (Night Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
 #EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/LSMXNU98rEYzD11zABJSBCy_rWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827312/85b5d7.jpg" group-title="BRI Super League",Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -327,107 +151,3 @@ https://tipiku.biz.id/dash/19355
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19543
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/9rtTyyjfHZ7X73lkf5Lt3Icdwuw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827325/f639a5.jpg" group-title="BRI Super League",Egypt vs Benin - TotalEnergies Africa Cup of Nations
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-6317" tvg-logo="https://thumbor.prod.vidiocdn.com/c8n3ErU-2swiwF8o0JoNwqX_saY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827329/2d017a.jpg" group-title="BRI Super League",Nigeria vs Mozambique - TotalEnergies Africa Cup of Nations
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6317
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6317
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/iXSgBANYZIgcbp72PmUXOoMOgcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827320/d602f3.jpg" group-title="BRI Super League",United Cup 2026 - Day 5 (Day Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/00GjPQEXzG-xwhR9A7D7gHYi6u8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827321/86b253.jpg" group-title="BRI Super League",United Cup 2026 - Day 5 (Night Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-19404" tvg-logo="https://thumbor.prod.vidiocdn.com/9aFmbUi2MBnlW1OaHJlNh_TdONk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827703/89c5c2.jpg" group-title="BRI Super League",Pisa vs Como - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19404
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19404
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/b_X86sE9IOgbvaNX5PvB7iA-mlQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827326/918f28.jpg" group-title="BRI Super League",Algeria vs DR Congo - TotalEnergies Africa Cup of Nations
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-20108" tvg-logo="https://thumbor.prod.vidiocdn.com/0tV4uRABdPY3eLKGVpr35Wcv8Fo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827706/2e8f30.jpg" group-title="BRI Super League",Lecce vs Roma - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20108
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20108
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/Df_lNNPt7dW1R8MAKxxFhpdZLAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827330/6e135c.jpg" group-title="BRI Super League",Ivory Coast vs Burkina Faso - TotalEnergies Africa Cup of Nations
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-20108" tvg-logo="https://thumbor.prod.vidiocdn.com/81KZfp9_WAezlLiMSCbTY9Kc3KE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827705/542bdf.jpg" group-title="BRI Super League",Sassuolo vs Juventus - Serie A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20108
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20108
-#EXTINF:-1 tvg-id="vidio-18797" tvg-logo="https://thumbor.prod.vidiocdn.com/1fkeHcJLZrYkr0dzc09LMd77J3Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827316/d04344.jpg" group-title="BRI Super League",West Ham vs Nottingham Forest - Premier League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/18797
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/18797
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/VmfZOo0NzoOQHR3zMjVURzCvreU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827337/8fb8d6.jpg" group-title="BRI Super League",United Cup 2026 - Day 6 (Day Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/IWRwPhLrT_ePceT8rntjgceZo4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827338/e9e136.jpg" group-title="BRI Super League",United Cup 2026 - Day 6 (Night Session)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-19672" tvg-logo="https://thumbor.prod.vidiocdn.com/7W9P5Nh5bya_DUm0iB1ePX6qny4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827850/c2f2d5.jpg" group-title="BRI Super League",Hong Kong Eastern vs Seoul SK Knights - EASL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19672
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19672
