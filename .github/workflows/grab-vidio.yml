@@ -31,6 +31,10 @@ jobs:
           VIDIO_VISITOR_ID: ${{ secrets.VIDIO_VISITOR_ID }}
         run: |
           php scripts/grab_vidio.php
+          
+      - name: Generate M3U8 playlists
+        run: |
+          php scripts/generate_m3u.php
 
       - name: Commit data if changed
         run: |
