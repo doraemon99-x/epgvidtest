@@ -12,6 +12,12 @@
 <programme start="20260104062200 +0000" stop="20260104160000 +0000" channel="vidio-19384">
   <title>Malut United FC vs PSBS Biak - BRI Super League</title>
 </programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 3 (Night Session)</display-name>
+</channel>
+<programme start="20260104063000 +0000" stop="20260104153000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 3 (Night Session)</title>
+</programme>
 <channel id="vidio-205">
   <display-name>PSIM Jogja vs Semen Padang FC - BRI Super League</display-name>
 </channel>
@@ -84,6 +90,18 @@
 <programme start="20260104195500 +0000" stop="20260104220000 +0000" channel="vidio-6299">
   <title>Real Sociedad vs Atletico Madrid - LaLiga</title>
 </programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 4 (Day Session)</display-name>
+</channel>
+<programme start="20260104230000 +0000" stop="20260105063000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 4 (Day Session)</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 4 (Night Session)</display-name>
+</channel>
+<programme start="20260105063000 +0000" stop="20260105153000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 4 (Night Session)</title>
+</programme>
 <channel id="vidio-19354">
   <display-name>Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League</display-name>
 </channel>
@@ -113,5 +131,29 @@
 </channel>
 <programme start="20260105115200 +0000" stop="20260105140000 +0000" channel="vidio-19543">
   <title>Kendal Tornado FC vs PSS Sleman - Pegadaian Championship</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 5 (Day Session)</display-name>
+</channel>
+<programme start="20260105230000 +0000" stop="20260106063000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 5 (Day Session)</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 5 (Night Session)</display-name>
+</channel>
+<programme start="20260106063000 +0000" stop="20260106153000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 5 (Night Session)</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 6 (Day Session)</display-name>
+</channel>
+<programme start="20260106230000 +0000" stop="20260107090000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 6 (Day Session)</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>United Cup 2026 - Day 6 (Night Session)</display-name>
+</channel>
+<programme start="20260107090000 +0000" stop="20260107153000 +0000" channel="vidio-17875">
+  <title>United Cup 2026 - Day 6 (Night Session)</title>
 </programme>
 </tv>

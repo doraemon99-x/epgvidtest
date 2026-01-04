@@ -22,6 +22,17 @@
         "web_url": "https://www.vidio.com/live/19384-bri-super-league?schedule_id=4825050"
     },
     {
+        "schedule_id": 4819780,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 3 (Night Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Vok7u6fc2WuV2fqCMfEO4l5Q9ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819780/cf30b3.jpg",
+        "start_time": "2026-01-04T06:30:00.000Z",
+        "end_time": "2026-01-04T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4819780"
+    },
+    {
         "schedule_id": 4823385,
         "livestreaming_id": 205,
         "title": "PSIM Jogja vs Semen Padang FC - BRI Super League",
@@ -154,6 +165,28 @@
         "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4827324"
     },
     {
+        "schedule_id": 4827318,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 4 (Day Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/LmTK4xnK8u19a0LpXXTUJqwpeJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827318/dc58c0.jpg",
+        "start_time": "2026-01-04T23:00:00.000Z",
+        "end_time": "2026-01-05T06:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827318"
+    },
+    {
+        "schedule_id": 4827319,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 4 (Night Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/0cvt-wtvqu0q4eqaDDncye4K6TI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827319/e518b1.jpg",
+        "start_time": "2026-01-05T06:30:00.000Z",
+        "end_time": "2026-01-05T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827319"
+    },
+    {
         "schedule_id": 4827312,
         "livestreaming_id": 19354,
         "title": "Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League",
@@ -207,5 +240,49 @@
         "start_time": "2026-01-05T11:52:00.000Z",
         "end_time": "2026-01-05T14:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827315"
+    },
+    {
+        "schedule_id": 4827320,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 5 (Day Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/iXSgBANYZIgcbp72PmUXOoMOgcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827320/d602f3.jpg",
+        "start_time": "2026-01-05T23:00:00.000Z",
+        "end_time": "2026-01-06T06:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827320"
+    },
+    {
+        "schedule_id": 4827321,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 5 (Night Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/00GjPQEXzG-xwhR9A7D7gHYi6u8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827321/86b253.jpg",
+        "start_time": "2026-01-06T06:30:00.000Z",
+        "end_time": "2026-01-06T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827321"
+    },
+    {
+        "schedule_id": 4827337,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 6 (Day Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/VmfZOo0NzoOQHR3zMjVURzCvreU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827337/8fb8d6.jpg",
+        "start_time": "2026-01-06T23:00:00.000Z",
+        "end_time": "2026-01-07T09:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827337"
+    },
+    {
+        "schedule_id": 4827338,
+        "livestreaming_id": 17875,
+        "title": "United Cup 2026 - Day 6 (Night Session)",
+        "league": "United Cup",
+        "channel": "United Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/IWRwPhLrT_ePceT8rntjgceZo4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827338/e9e136.jpg",
+        "start_time": "2026-01-07T09:00:00.000Z",
+        "end_time": "2026-01-07T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827338"
     }
 ]
