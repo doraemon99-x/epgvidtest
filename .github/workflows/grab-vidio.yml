@@ -26,6 +26,9 @@ jobs:
       - name: Run grabber
         env:
           VIDIO_API_KEY: ${{ secrets.VIDIO_API_KEY }}
+          VIDIO_USER_EMAIL: ${{ secrets.VIDIO_USER_EMAIL }}
+          VIDIO_USER_TOKEN: ${{ secrets.VIDIO_USER_TOKEN }}
+          VIDIO_VISITOR_ID: ${{ secrets.VIDIO_VISITOR_ID }}
         run: |
           php scripts/grab_vidio.php
 

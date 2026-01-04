@@ -1,4 +1,8 @@
 <?php
+/**
+ * Vidio Livestreaming Grabber
+ * Split per Channel & League
+ */
 
 function slug($text) {
     $text = strtolower($text);
@@ -8,29 +12,52 @@ function slug($text) {
 
 $url = "https://api.vidio.com/sections/3787-pertandingan-hari-ini";
 
+/* =========================
+   HEADERS (WAJIB LENGKAP)
+   ========================= */
 $headers = [
     "Accept: application/json",
     "Content-Type: application/vnd.api+json",
     "X-Api-App-Info: js/tv.vidio.com",
-    "X-Api-Key: getenv('VIDIO_API_KEY')",
-    "X-Api-Platform: tv-react"
+    "X-Api-Key: " . getenv('VIDIO_API_KEY'),
+    "X-Api-Platform: tv-react",
+    "X-Secure-Level: 2",
+    "X-User-Email: " . getenv('VIDIO_USER_EMAIL'),
+    "X-User-Token: " . getenv('VIDIO_USER_TOKEN'),
+    "X-View-Profile: personal",
+    "X-Visitor-Id: " . getenv('VIDIO_VISITOR_ID'),
 ];
 
 $ch = curl_init($url);
 curl_setopt_array($ch, [
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_HTTPHEADER => $headers,
+    CURLOPT_TIMEOUT => 30,
     CURLOPT_SSL_VERIFYPEER => false
 ]);
 
 $response = curl_exec($ch);
+
+if (curl_errno($ch)) {
+    fwrite(STDERR, curl_error($ch));
+    exit(1);
+}
 curl_close($ch);
 
 $data = json_decode($response, true);
 
+/* =========================
+   DEBUG AWAL
+   ========================= */
+$includedCount = count($data['included'] ?? []);
+echo "Included count: {$includedCount}\n";
+
 $channels = [];
 $leagues  = [];
 
+/* =========================
+   PARSING DATA
+   ========================= */
 foreach ($data['included'] ?? [] as $item) {
 
     if (
@@ -53,24 +80,20 @@ foreach ($data['included'] ?? [] as $item) {
         "web_url" => $attr['web_url'] ?? null
     ];
 
-    /* =====================
-       SPLIT PER CHANNEL
-       ===================== */
+    /* ===== SPLIT CHANNEL ===== */
     $channelSlug = slug($entry['channel']);
     $channels[$channelSlug][] = $entry;
 
-    /* =====================
-       SPLIT PER LIGA / EVENT
-       ===================== */
-    $leagueName = explode('-', $entry['title'])[0]; // ambil awal title
+    /* ===== SPLIT LIGA ===== */
+    // ambil bagian awal judul (umumnya nama liga/event)
+    $leagueName = explode('-', $entry['title'])[0];
     $leagueSlug = slug($leagueName);
     $leagues[$leagueSlug][] = $entry;
 }
 
-/* =====================
+/* =========================
    SIMPAN FILE
-   ===================== */
-
+   ========================= */
 @mkdir("data/channels", 0777, true);
 @mkdir("data/leagues", 0777, true);
 
