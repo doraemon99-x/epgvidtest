@@ -1,82 +1,5 @@
 [
     {
-        "schedule_id": 4824482,
-        "livestreaming_id": 19543,
-        "title": "Persipura Jayapura vs Deltras FC - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/fkj8CKhQv342WWBz6RWyh_9VZ6E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824482/6326a1.jpg",
-        "start_time": "2026-01-04T06:22:00.000Z",
-        "end_time": "2026-01-04T09:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4824482"
-    },
-    {
-        "schedule_id": 4825050,
-        "livestreaming_id": 19384,
-        "title": "Malut United FC vs PSBS Biak - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/QiGMJUb9TyZwGnuzXEW9n9nTz7c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4825050/58aaf5.jpg",
-        "start_time": "2026-01-04T06:22:00.000Z",
-        "end_time": "2026-01-04T16:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19384-bri-super-league?schedule_id=4825050"
-    },
-    {
-        "schedule_id": 4819780,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 3 (Night Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/Vok7u6fc2WuV2fqCMfEO4l5Q9ps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819780/cf30b3.jpg",
-        "start_time": "2026-01-04T06:30:00.000Z",
-        "end_time": "2026-01-04T15:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4819780"
-    },
-    {
-        "schedule_id": 4823385,
-        "livestreaming_id": 205,
-        "title": "PSIM Jogja vs Semen Padang FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/gItx9_cSQhwdu9Px_Yqbi0eV0UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4823385/a90cdb.jpg",
-        "start_time": "2026-01-04T08:00:00.000Z",
-        "end_time": "2026-01-04T10:40:00.000Z",
-        "web_url": "https://www.vidio.com/live/205-indosiar?schedule_id=4823385"
-    },
-    {
-        "schedule_id": 4824479,
-        "livestreaming_id": 19353,
-        "title": "PERSIS vs PERSITA - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/7cRT3txwvhG7HRJElLIM2ZHfvvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824479/ad9048.jpg",
-        "start_time": "2026-01-04T08:22:00.000Z",
-        "end_time": "2026-01-04T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19353-bri-super-league?schedule_id=4824479"
-    },
-    {
-        "schedule_id": 4824484,
-        "livestreaming_id": 19541,
-        "title": "Adhyaksa FC vs Garudayaksa FC - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/4N8-gJUlrCfDPfl5rnYKSOpr1mo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824484/bdb0e9.jpg",
-        "start_time": "2026-01-04T08:22:00.000Z",
-        "end_time": "2026-01-04T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4824484"
-    },
-    {
-        "schedule_id": 4824946,
-        "livestreaming_id": 19542,
-        "title": "Sriwijaya FC vs PSPS Pekanbaru - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/BatR5vdbhA035TAg8mS81UHKpIU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824946/2f29cd.jpg",
-        "start_time": "2026-01-04T08:22:00.000Z",
-        "end_time": "2026-01-04T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19542-pegadaian-championship-2025-26?schedule_id=4824946"
-    },
-    {
         "schedule_id": 4824480,
         "livestreaming_id": 19383,
         "title": "Jelang Kick Off - Bali United FC vs Arema FC - BRI Super League",
@@ -88,6 +11,17 @@
         "web_url": "https://www.vidio.com/live/19383-bri-super-league?schedule_id=4824480"
     },
     {
+        "schedule_id": 4824481,
+        "livestreaming_id": 19988,
+        "title": "Bali United FC vs Arema FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/GMvt8hLP4rGpTnVuBYrK4ahOxQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824481/7b82ec.jpg",
+        "start_time": "2026-01-04T11:33:00.000Z",
+        "end_time": "2026-01-04T15:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19988-bri-super-league?schedule_id=4824481"
+    },
+    {
         "schedule_id": 4824483,
         "livestreaming_id": 19543,
         "title": "Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship",
@@ -97,17 +31,6 @@
         "start_time": "2026-01-04T11:52:00.000Z",
         "end_time": "2026-01-04T15:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4824483"
-    },
-    {
-        "schedule_id": 4824481,
-        "livestreaming_id": 19988,
-        "title": "Bali United FC vs Arema FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/GMvt8hLP4rGpTnVuBYrK4ahOxQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824481/7b82ec.jpg",
-        "start_time": "2026-01-04T12:00:00.000Z",
-        "end_time": "2026-01-04T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19988-bri-super-league?schedule_id=4824481"
     },
     {
         "schedule_id": 4819776,
@@ -165,28 +88,6 @@
         "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4827324"
     },
     {
-        "schedule_id": 4827318,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 4 (Day Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/LmTK4xnK8u19a0LpXXTUJqwpeJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827318/dc58c0.jpg",
-        "start_time": "2026-01-04T23:00:00.000Z",
-        "end_time": "2026-01-05T06:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827318"
-    },
-    {
-        "schedule_id": 4827319,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 4 (Night Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/0cvt-wtvqu0q4eqaDDncye4K6TI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827319/e518b1.jpg",
-        "start_time": "2026-01-05T06:30:00.000Z",
-        "end_time": "2026-01-05T15:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827319"
-    },
-    {
         "schedule_id": 4827312,
         "livestreaming_id": 19354,
         "title": "Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League",
@@ -209,17 +110,6 @@
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827314"
     },
     {
-        "schedule_id": 4827313,
-        "livestreaming_id": 19354,
-        "title": "PERSIK Kediri vs PERSIB - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg",
-        "start_time": "2026-01-05T11:30:00.000Z",
-        "end_time": "2026-01-05T14:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827313"
-    },
-    {
         "schedule_id": 4827681,
         "livestreaming_id": 19355,
         "title": "Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League",
@@ -231,6 +121,17 @@
         "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4827681"
     },
     {
+        "schedule_id": 4827313,
+        "livestreaming_id": 19354,
+        "title": "PERSIK Kediri vs PERSIB - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg",
+        "start_time": "2026-01-05T11:30:00.000Z",
+        "end_time": "2026-01-05T14:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827313"
+    },
+    {
         "schedule_id": 4827315,
         "livestreaming_id": 19543,
         "title": "Kendal Tornado FC vs PSS Sleman - Pegadaian Championship",
@@ -240,49 +141,5 @@
         "start_time": "2026-01-05T11:52:00.000Z",
         "end_time": "2026-01-05T14:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827315"
-    },
-    {
-        "schedule_id": 4827320,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 5 (Day Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/iXSgBANYZIgcbp72PmUXOoMOgcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827320/d602f3.jpg",
-        "start_time": "2026-01-05T23:00:00.000Z",
-        "end_time": "2026-01-06T06:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827320"
-    },
-    {
-        "schedule_id": 4827321,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 5 (Night Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/00GjPQEXzG-xwhR9A7D7gHYi6u8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827321/86b253.jpg",
-        "start_time": "2026-01-06T06:30:00.000Z",
-        "end_time": "2026-01-06T15:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827321"
-    },
-    {
-        "schedule_id": 4827337,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 6 (Day Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/VmfZOo0NzoOQHR3zMjVURzCvreU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827337/8fb8d6.jpg",
-        "start_time": "2026-01-06T23:00:00.000Z",
-        "end_time": "2026-01-07T09:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827337"
-    },
-    {
-        "schedule_id": 4827338,
-        "livestreaming_id": 17875,
-        "title": "United Cup 2026 - Day 6 (Night Session)",
-        "league": "United Cup",
-        "channel": "United Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/IWRwPhLrT_ePceT8rntjgceZo4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827338/e9e136.jpg",
-        "start_time": "2026-01-07T09:00:00.000Z",
-        "end_time": "2026-01-07T15:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827338"
     }
 ]
