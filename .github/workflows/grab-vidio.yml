@@ -1,0 +1,31 @@
+name: Grab Vidio Livestreaming Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # setiap 1 jam
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.2"
+
+      - name: Run grabber
+        env:
+          VIDIO_API_KEY: ${{ secrets.VIDIO_API_KEY }}
+        run: |
+          php scripts/grab_vidio.php
+
+      - name: Upload result artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: vidio-result
+          path: result.json
