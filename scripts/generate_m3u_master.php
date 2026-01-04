@@ -1,31 +1,31 @@
 <?php
 /**
- * Generate M3U8 playlist from data/channels/*.json
+ * Generate MASTER M3U8 playlist (all.m3u8)
+ * Source: data/channels/*.json
  */
 
-function slug($text) {
-    $text = strtolower($text);
-    $text = preg_replace('/[^a-z0-9]+/', '-', $text);
-    return trim($text, '-');
+function clean($text) {
+    return trim(str_replace(["\n", "\r"], '', $text));
 }
 
 $channelDir = "data/channels";
 $outputDir  = "data/playlists";
+$outputFile = "{$outputDir}/all.m3u8";
 
 @mkdir($outputDir, 0777, true);
 
 $files = glob($channelDir . "/*.json");
 
+$m3u = "#EXTM3U\n";
+
 foreach ($files as $file) {
 
-    $channelSlug = basename($file, ".json");
+    $channelName = ucwords(str_replace('-', ' ', basename($file, '.json')));
     $items = json_decode(file_get_contents($file), true);
 
     if (empty($items)) {
         continue;
     }
-
-    $m3u = "#EXTM3U\n";
 
     foreach ($items as $item) {
 
@@ -33,12 +33,11 @@ foreach ($files as $file) {
             continue;
         }
 
-        $title = $item['title'];
-        $logo  = $item['cover_url'];
+        $title = clean($item['title']);
+        $logo  = $item['cover_url'] ?? '';
         $lid   = $item['livestreaming_id'];
 
-        // group-title dari channel
-        $group = "#1. " . ucfirst(str_replace('-', ' ', $channelSlug));
+        $group = "#1. {$channelName}";
 
         $m3u .= <<<M3U
 #EXTINF:-1 tvg-logo="{$logo}" group-title="{$group}",{$title}
@@ -52,8 +51,8 @@ https://tipiku.biz.id/dash/{$lid}
 
 M3U;
     }
-
-    file_put_contents("{$outputDir}/{$channelSlug}.m3u8", $m3u);
 }
 
-echo "M3U8 playlists generated\n";
+file_put_contents($outputFile, $m3u);
+
+echo "Master playlist generated: data/playlists/all.m3u8\n";

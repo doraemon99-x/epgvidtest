@@ -35,6 +35,11 @@ jobs:
       - name: Generate M3U8 playlists
         run: |
           php scripts/generate_m3u.php
+          
+      - name: Generate master M3U8 playlist
+        run: |
+          php scripts/generate_m3u_master.php
+
 
       - name: Commit data if changed
         run: |
