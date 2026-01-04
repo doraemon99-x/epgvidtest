@@ -1,7 +1,6 @@
 <?php
 /**
  * Generate MASTER M3U8 playlist (all.m3u8)
- * Source: data/channels/*.json
  */
 
 function clean($text) {
@@ -20,7 +19,6 @@ $m3u = "#EXTM3U\n";
 
 foreach ($files as $file) {
 
-    $channelName = ucwords(str_replace('-', ' ', basename($file, '.json')));
     $items = json_decode(file_get_contents($file), true);
 
     if (empty($items)) {
@@ -37,10 +35,11 @@ foreach ($files as $file) {
         $logo  = $item['cover_url'] ?? '';
         $lid   = $item['livestreaming_id'];
 
-        $group = "BRI Super League";
+        // tvg-id HARUS UNIK
+        $tvgId = "vidio-" . $lid;
 
         $m3u .= <<<M3U
-#EXTINF:-1 tvg-logo="{$logo}" group-title="{$group}",{$title}
+#EXTINF:-1 tvg-id="{$tvgId}" tvg-logo="{$logo}" group-title="BRI Super League",{$title}
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/{$lid}
