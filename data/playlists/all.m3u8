@@ -1,60 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vidio-19988" tvg-logo="https://thumbor.prod.vidiocdn.com/GMvt8hLP4rGpTnVuBYrK4ahOxQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824481/7b82ec.jpg" group-title="BRI Super League",Bali United FC vs Arema FC - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19988
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19988
-#EXTINF:-1 tvg-id="vidio-19543" tvg-logo="https://thumbor.prod.vidiocdn.com/S29oX0Tnjzf7dVEXJeUk4PteohI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824483/c469d3.jpg" group-title="BRI Super League",Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19543
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19543
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/dVdAL8G50Pz1_iEDot-B5r5wrH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819776/8755d4.jpg" group-title="BRI Super League",Sevilla vs Levante - LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/miz9h1PoFaJ5XKpniwd2r1pPdgo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819775/425f5b.jpg" group-title="BRI Super League",Real Madrid vs Real Betis - LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/tBh3RNYt5OC9y2hXZ77M03Q8Yuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827323/b38477.jpg" group-title="BRI Super League",Mallorca vs Girona - LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-17875" tvg-logo="https://thumbor.prod.vidiocdn.com/NAZHoHgAmh05V19hF-s8OgcIywo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827317/7d6dae.jpg" group-title="BRI Super League",Alaves vs Oviedo - LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/17875
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/17875
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/ApbEcoyBrtiSmB6_EY_SfhflwI8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827324/aabe5f.jpg" group-title="BRI Super League",Real Sociedad vs Atletico Madrid - LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
 #EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/LSMXNU98rEYzD11zABJSBCy_rWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827312/85b5d7.jpg" group-title="BRI Super League",Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -71,14 +15,6 @@ https://tipiku.biz.id/dash/19354
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19543
-#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg" group-title="BRI Super League",PERSIK Kediri vs PERSIB - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19354
 #EXTINF:-1 tvg-id="vidio-19355" tvg-logo="https://thumbor.prod.vidiocdn.com/83N3eUUhMARUz2frrMxAIoDpJlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827681/91efc2.jpg" group-title="BRI Super League",Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,6 +23,14 @@ https://tipiku.biz.id/dash/19354
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19355
+#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg" group-title="BRI Super League",PERSIK Kediri vs PERSIB - BRI Super League
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://tv.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
+https://tipiku.biz.id/dash/19354
 #EXTINF:-1 tvg-id="vidio-19543" tvg-logo="https://thumbor.prod.vidiocdn.com/BCqDZm8vV3pSOHX8LSQ4HwgLYZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827315/5039fe.jpg" group-title="BRI Super League",Kendal Tornado FC vs PSS Sleman - Pegadaian Championship
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

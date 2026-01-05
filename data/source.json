@@ -1,82 +1,5 @@
 [
     {
-        "schedule_id": 4824481,
-        "livestreaming_id": 19988,
-        "title": "Bali United FC vs Arema FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/GMvt8hLP4rGpTnVuBYrK4ahOxQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824481/7b82ec.jpg",
-        "start_time": "2026-01-04T11:33:00.000Z",
-        "end_time": "2026-01-04T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19988-bri-super-league?schedule_id=4824481"
-    },
-    {
-        "schedule_id": 4824483,
-        "livestreaming_id": 19543,
-        "title": "Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/S29oX0Tnjzf7dVEXJeUk4PteohI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4824483/c469d3.jpg",
-        "start_time": "2026-01-04T11:52:00.000Z",
-        "end_time": "2026-01-04T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4824483"
-    },
-    {
-        "schedule_id": 4819776,
-        "livestreaming_id": 6299,
-        "title": "Sevilla vs Levante - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/dVdAL8G50Pz1_iEDot-B5r5wrH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819776/8755d4.jpg",
-        "start_time": "2026-01-04T13:00:00.000Z",
-        "end_time": "2026-01-04T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4819776"
-    },
-    {
-        "schedule_id": 4819775,
-        "livestreaming_id": 6299,
-        "title": "Real Madrid vs Real Betis - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/miz9h1PoFaJ5XKpniwd2r1pPdgo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4819775/425f5b.jpg",
-        "start_time": "2026-01-04T15:15:00.000Z",
-        "end_time": "2026-01-04T17:15:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4819775"
-    },
-    {
-        "schedule_id": 4827323,
-        "livestreaming_id": 6299,
-        "title": "Mallorca vs Girona - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/tBh3RNYt5OC9y2hXZ77M03Q8Yuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827323/b38477.jpg",
-        "start_time": "2026-01-04T17:15:00.000Z",
-        "end_time": "2026-01-04T19:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4827323"
-    },
-    {
-        "schedule_id": 4827317,
-        "livestreaming_id": 17875,
-        "title": "Alaves vs Oviedo - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/NAZHoHgAmh05V19hF-s8OgcIywo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827317/7d6dae.jpg",
-        "start_time": "2026-01-04T17:25:00.000Z",
-        "end_time": "2026-01-04T19:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4827317"
-    },
-    {
-        "schedule_id": 4827324,
-        "livestreaming_id": 6299,
-        "title": "Real Sociedad vs Atletico Madrid - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/ApbEcoyBrtiSmB6_EY_SfhflwI8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827324/aabe5f.jpg",
-        "start_time": "2026-01-04T19:55:00.000Z",
-        "end_time": "2026-01-04T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4827324"
-    },
-    {
         "schedule_id": 4827312,
         "livestreaming_id": 19354,
         "title": "Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League",
@@ -99,17 +22,6 @@
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827314"
     },
     {
-        "schedule_id": 4827313,
-        "livestreaming_id": 19354,
-        "title": "PERSIK Kediri vs PERSIB - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg",
-        "start_time": "2026-01-05T11:30:00.000Z",
-        "end_time": "2026-01-05T14:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827313"
-    },
-    {
         "schedule_id": 4827681,
         "livestreaming_id": 19355,
         "title": "Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League",
@@ -119,6 +31,17 @@
         "start_time": "2026-01-05T11:30:00.000Z",
         "end_time": "2026-01-05T12:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4827681"
+    },
+    {
+        "schedule_id": 4827313,
+        "livestreaming_id": 19354,
+        "title": "PERSIK Kediri vs PERSIB - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg",
+        "start_time": "2026-01-05T11:30:00.000Z",
+        "end_time": "2026-01-05T14:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827313"
     },
     {
         "schedule_id": 4827315,
