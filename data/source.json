@@ -1,57 +1,24 @@
 [
     {
-        "schedule_id": 4827312,
-        "livestreaming_id": 19354,
-        "title": "Bhayangkara Presisi Lampung FC vs Dewa United Banten FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/LSMXNU98rEYzD11zABJSBCy_rWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827312/85b5d7.jpg",
-        "start_time": "2026-01-05T08:00:00.000Z",
-        "end_time": "2026-01-05T11:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827312"
+        "schedule_id": 4827326,
+        "livestreaming_id": 6299,
+        "title": "Algeria vs DR Congo - TotalEnergies Africa Cup of Nations",
+        "league": "Africa Cup",
+        "channel": "Africa Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/b_X86sE9IOgbvaNX5PvB7iA-mlQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827326/918f28.jpg",
+        "start_time": "2026-01-06T15:48:00.000Z",
+        "end_time": "2026-01-06T18:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4827326"
     },
     {
-        "schedule_id": 4827314,
-        "livestreaming_id": 19543,
-        "title": "PS. Barito Putera vs Persiku Kudus - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/i2pfVnPEz9W74FsMqFcMXlHZZUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827314/2256c1.jpg",
-        "start_time": "2026-01-05T08:22:00.000Z",
-        "end_time": "2026-01-05T10:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827314"
-    },
-    {
-        "schedule_id": 4827681,
-        "livestreaming_id": 19355,
-        "title": "Jelang Kick Off - PERSIK Kediri vs PERSIB - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/83N3eUUhMARUz2frrMxAIoDpJlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827681/91efc2.jpg",
-        "start_time": "2026-01-05T11:30:00.000Z",
-        "end_time": "2026-01-05T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4827681"
-    },
-    {
-        "schedule_id": 4827313,
-        "livestreaming_id": 19354,
-        "title": "PERSIK Kediri vs PERSIB - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/dw_31ghsl50Ozu-_ExEQRLkXR-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827313/1643e3.jpg",
-        "start_time": "2026-01-05T11:30:00.000Z",
-        "end_time": "2026-01-05T14:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4827313"
-    },
-    {
-        "schedule_id": 4827315,
-        "livestreaming_id": 19543,
-        "title": "Kendal Tornado FC vs PSS Sleman - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/BCqDZm8vV3pSOHX8LSQ4HwgLYZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827315/5039fe.jpg",
-        "start_time": "2026-01-05T11:52:00.000Z",
-        "end_time": "2026-01-05T14:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4827315"
+        "schedule_id": 4827330,
+        "livestreaming_id": 6299,
+        "title": "Ivory Coast vs Burkina Faso - TotalEnergies Africa Cup of Nations",
+        "league": "Africa Cup",
+        "channel": "Africa Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Df_lNNPt7dW1R8MAKxxFhpdZLAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827330/6e135c.jpg",
+        "start_time": "2026-01-06T18:48:00.000Z",
+        "end_time": "2026-01-06T21:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4827330"
     }
 ]
