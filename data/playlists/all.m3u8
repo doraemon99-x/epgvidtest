@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/b_X86sE9IOgbvaNX5PvB7iA-mlQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827326/918f28.jpg" group-title="BRI Super League",Algeria vs DR Congo - TotalEnergies Africa Cup of Nations
+#EXTINF:-1 tvg-id="vidio-205" tvg-logo="https://thumbor.prod.vidiocdn.com/0EtLHSeMBQjjEovgbfTOrZvnpU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832164/1d9b9b.jpg" group-title="BRI Super League",PERSITA vs Borneo FC Samarinda - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
+#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/205
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/Df_lNNPt7dW1R8MAKxxFhpdZLAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4827330/6e135c.jpg" group-title="BRI Super League",Ivory Coast vs Burkina Faso - TotalEnergies Africa Cup of Nations
+https://tipiku.biz.id/dash/205
+#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/FpmAZK1Y927S7gI_7m83NAsJlgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4832166/dc2812.jpg" group-title="BRI Super League",PSM Makassar vs Bali United FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
+#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
+https://tipiku.biz.id/dash/19354
