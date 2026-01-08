@@ -1,15 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-205">
-  <display-name>PERSITA vs Borneo FC Samarinda - BRI Super League</display-name>
-</channel>
-<programme start="20260109080000 +0000" stop="20260109103000 +0000" channel="vidio-205">
-  <title>PERSITA vs Borneo FC Samarinda - BRI Super League</title>
-</programme>
-<channel id="vidio-19354">
-  <display-name>PSM Makassar vs Bali United FC - BRI Super League</display-name>
-</channel>
-<programme start="20260109113000 +0000" stop="20260109140000 +0000" channel="vidio-19354">
-  <title>PSM Makassar vs Bali United FC - BRI Super League</title>
-</programme>
 </tv>
