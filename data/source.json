@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "schedule_id": 4839601,
+        "livestreaming_id": 6299,
+        "title": "Semifinal: Senegal vs Egypt - TotalEnergies Africa Cup of Nations",
+        "league": "Africa Cup",
+        "channel": "Africa Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/8VkmF7jDMHuy6mBF3PESC5YXp9Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839601/a740e3.jpg",
+        "start_time": "2026-01-14T17:00:00.000Z",
+        "end_time": "2026-01-14T19:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4839601"
+    },
+    {
+        "schedule_id": 4839602,
+        "livestreaming_id": 6299,
+        "title": "Semifinal: Nigeria vs Morocco - TotalEnergies Africa Cup of Nations",
+        "league": "Africa Cup",
+        "channel": "Africa Cup",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/cyxYq-WL9oeFMXvKe-_MZjT4UeQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839602/d6bfaf.jpg",
+        "start_time": "2026-01-14T20:00:00.000Z",
+        "end_time": "2026-01-14T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4839602"
+    },
+    {
+        "schedule_id": 4839603,
+        "livestreaming_id": 20240,
+        "title": "Putra: Medan Falcons Tirta Bhagasasi vs Jakarta Garuda Jaya - Proliga",
+        "league": "Proliga",
+        "channel": "Proliga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/vpVAk1sMplVe7qC_DaooT_x3VtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839603/2fe2a2.jpg",
+        "start_time": "2026-01-15T08:30:00.000Z",
+        "end_time": "2026-01-15T11:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4839603"
+    },
+    {
+        "schedule_id": 4838613,
+        "livestreaming_id": 20240,
+        "title": "Putri: Jakarta Popsivo Polwan vs Gresik Phonska Plus Pupuk Indonesia - Proliga",
+        "league": "Proliga",
+        "channel": "Proliga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Rj40JUBgsONxJMJZxCk6jUkb6mA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4838613/0d3c2b.jpg",
+        "start_time": "2026-01-15T12:00:00.000Z",
+        "end_time": "2026-01-15T14:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4838613"
+    },
+    {
+        "schedule_id": 4839606,
+        "livestreaming_id": 20240,
+        "title": "Putri: Medan Falcons vs Bandung BJB Tandamata - Proliga",
+        "league": "Proliga",
+        "channel": "Proliga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/CZVniAN91NmADZ-QH-OkM0Tetic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839606/48a608.jpg",
+        "start_time": "2026-01-16T08:30:00.000Z",
+        "end_time": "2026-01-16T11:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4839606"
+    },
+    {
+        "schedule_id": 4839607,
+        "livestreaming_id": 20240,
+        "title": "Putri: Jakarta Pertamina Enduro vs Jakarta Livin Mandiri - Proliga",
+        "league": "Proliga",
+        "channel": "Proliga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/bQFVZoSF-jHZ2nIrAsS8ktdw4kQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839607/24d7cf.jpg",
+        "start_time": "2026-01-16T12:00:00.000Z",
+        "end_time": "2026-01-16T14:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4839607"
+    }
+]
