@@ -1,39 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-6299">
-  <display-name>Semifinal: Senegal vs Egypt - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260114170000 +0000" stop="20260114190000 +0000" channel="vidio-6299">
-  <title>Semifinal: Senegal vs Egypt - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Semifinal: Nigeria vs Morocco - TotalEnergies Africa Cup of Nations</display-name>
-</channel>
-<programme start="20260114200000 +0000" stop="20260114220000 +0000" channel="vidio-6299">
-  <title>Semifinal: Nigeria vs Morocco - TotalEnergies Africa Cup of Nations</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putra: Medan Falcons Tirta Bhagasasi vs Jakarta Garuda Jaya - Proliga</display-name>
-</channel>
-<programme start="20260115083000 +0000" stop="20260115113000 +0000" channel="vidio-20240">
-  <title>Putra: Medan Falcons Tirta Bhagasasi vs Jakarta Garuda Jaya - Proliga</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Jakarta Popsivo Polwan vs Gresik Phonska Plus Pupuk Indonesia - Proliga</display-name>
-</channel>
-<programme start="20260115120000 +0000" stop="20260115143000 +0000" channel="vidio-20240">
-  <title>Putri: Jakarta Popsivo Polwan vs Gresik Phonska Plus Pupuk Indonesia - Proliga</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Medan Falcons vs Bandung BJB Tandamata - Proliga</display-name>
-</channel>
-<programme start="20260116083000 +0000" stop="20260116113000 +0000" channel="vidio-20240">
-  <title>Putri: Medan Falcons vs Bandung BJB Tandamata - Proliga</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Jakarta Pertamina Enduro vs Jakarta Livin Mandiri - Proliga</display-name>
-</channel>
-<programme start="20260116120000 +0000" stop="20260116143000 +0000" channel="vidio-20240">
-  <title>Putri: Jakarta Pertamina Enduro vs Jakarta Livin Mandiri - Proliga</title>
-</programme>
 </tv>
