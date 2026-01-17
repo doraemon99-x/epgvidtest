@@ -1,52 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19541">
-  <display-name>FC Bekasi City vs Sriwijaya FC - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260116082200 +0000" stop="20260116110000 +0000" channel="vidio-19541">
-  <title>FC Bekasi City vs Sriwijaya FC - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Medan Falcons vs Bandung BJB Tandamata - Proliga</display-name>
-</channel>
-<programme start="20260116083000 +0000" stop="20260116113000 +0000" channel="vidio-20240">
-  <title>Putri: Medan Falcons vs Bandung BJB Tandamata - Proliga</title>
-</programme>
-<channel id="vidio-19541">
-  <display-name>PSPS Pekanbaru vs Persekat Tegal - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260116115200 +0000" stop="20260116150000 +0000" channel="vidio-19541">
-  <title>PSPS Pekanbaru vs Persekat Tegal - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Jakarta Pertamina Enduro vs Jakarta Livin Mandiri - Proliga</display-name>
-</channel>
-<programme start="20260116120000 +0000" stop="20260116143000 +0000" channel="vidio-20240">
-  <title>Putri: Jakarta Pertamina Enduro vs Jakarta Livin Mandiri - Proliga</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Espanyol vs Girona - LaLiga</display-name>
-</channel>
-<programme start="20260116195500 +0000" stop="20260116220000 +0000" channel="vidio-6299">
-  <title>Espanyol vs Girona - LaLiga</title>
-</programme>
 <channel id="vidio-19543">
   <display-name>PS. Barito Putera vs Persipura Jayapura - Pegadaian Championship</display-name>
 </channel>
 <programme start="20260117082200 +0000" stop="20260117110000 +0000" channel="vidio-19543">
   <title>PS. Barito Putera vs Persipura Jayapura - Pegadaian Championship</title>
 </programme>
-<channel id="vidio-19542">
-  <display-name>Persikad vs Garudayaksa FC - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260117082200 +0000" stop="20260117120000 +0000" channel="vidio-19542">
-  <title>Persikad vs Garudayaksa FC - Pegadaian Championship</title>
-</programme>
 <channel id="vidio-19541">
   <display-name>Adhyaksa FC vs Sumsel United - Pegadaian Championship</display-name>
 </channel>
 <programme start="20260117082200 +0000" stop="20260117110000 +0000" channel="vidio-19541">
   <title>Adhyaksa FC vs Sumsel United - Pegadaian Championship</title>
+</programme>
+<channel id="vidio-19542">
+  <display-name>Persikad vs Garudayaksa FC - Pegadaian Championship</display-name>
+</channel>
+<programme start="20260117082200 +0000" stop="20260117120000 +0000" channel="vidio-19542">
+  <title>Persikad vs Garudayaksa FC - Pegadaian Championship</title>
 </programme>
 <channel id="vidio-20240">
   <display-name>Putri: Bandung BJB Tandamata vs Jakarta Electric PLN Mobile - Proliga</display-name>
@@ -77,6 +47,12 @@
 </channel>
 <programme start="20260117151000 +0000" stop="20260117172500 +0000" channel="vidio-6299">
   <title>Mallorca vs Athletic Club - LaLiga</title>
+</programme>
+<channel id="vidio-6317">
+  <display-name>3rd Place: Egypt vs Nigeria - TotalEnergies Africa Cup of Nations</display-name>
+</channel>
+<programme start="20260117154800 +0000" stop="20260117180000 +0000" channel="vidio-6317">
+  <title>3rd Place: Egypt vs Nigeria - TotalEnergies Africa Cup of Nations</title>
 </programme>
 <channel id="vidio-6299">
   <display-name>Osasuna vs Oviedo - LaLiga</display-name>
@@ -137,5 +113,29 @@
 </channel>
 <programme start="20260118151000 +0000" stop="20260118172500 +0000" channel="vidio-6299">
   <title>Atletico Madrid vs Alaves - LaLiga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Celta Vigo vs Rayo Vallecano - LaLiga</display-name>
+</channel>
+<programme start="20260118172500 +0000" stop="20260118193000 +0000" channel="vidio-6299">
+  <title>Celta Vigo vs Rayo Vallecano - LaLiga</title>
+</programme>
+<channel id="vidio-6317">
+  <display-name>Final: Senegal vs Morocco - TotalEnergies Africa Cup of Nations</display-name>
+</channel>
+<programme start="20260118184800 +0000" stop="20260118210000 +0000" channel="vidio-6317">
+  <title>Final: Senegal vs Morocco - TotalEnergies Africa Cup of Nations</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Real Sociedad vs Barcelona - LaLiga</display-name>
+</channel>
+<programme start="20260118195500 +0000" stop="20260118220000 +0000" channel="vidio-6299">
+  <title>Real Sociedad vs Barcelona - LaLiga</title>
+</programme>
+<channel id="vidio-19541">
+  <display-name>Kendal Tornado FC vs Persipal FC - Pegadaian Championship</display-name>
+</channel>
+<programme start="20260119115200 +0000" stop="20260119150000 +0000" channel="vidio-19541">
+  <title>Kendal Tornado FC vs Persipal FC - Pegadaian Championship</title>
 </programme>
 </tv>
