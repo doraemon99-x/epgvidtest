@@ -1,126 +1,5 @@
 [
     {
-        "schedule_id": 4839890,
-        "livestreaming_id": 20240,
-        "title": "Putri: Jakarta Pertamina Enduro vs Gresik Phonska Plus Pupuk Indonesia - Proliga",
-        "league": "Proliga",
-        "channel": "Proliga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/JLdM2H7vupF9DUMjJGQoVK9a-2U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839890/725d77.jpg",
-        "start_time": "2026-01-18T05:30:00.000Z",
-        "end_time": "2026-01-18T08:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4839890"
-    },
-    {
-        "schedule_id": 4840003,
-        "livestreaming_id": 19541,
-        "title": "Persiku Kudus vs Persiba Balikpapan - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/Rehn5czAaN0xPYsoePW0C7Oxfzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4840003/f771ae.jpg",
-        "start_time": "2026-01-18T08:22:00.000Z",
-        "end_time": "2026-01-18T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4840003"
-    },
-    {
-        "schedule_id": 4840006,
-        "livestreaming_id": 19543,
-        "title": "PSS Sleman vs Persela Lamongan - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/y5VSEdOPPeTYqM1lieHnhbDAqHI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4840006/19ad80.jpg",
-        "start_time": "2026-01-18T08:22:00.000Z",
-        "end_time": "2026-01-18T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4840006"
-    },
-    {
-        "schedule_id": 4839891,
-        "livestreaming_id": 20240,
-        "title": "Putra: Jakarta Bhayangkara Presisi vs Jakarta Lavani Livin Transmedia - Proliga",
-        "league": "Proliga",
-        "channel": "Proliga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/UAuStncMHo99pg5AfWhapCMWXHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839891/382f1c.jpg",
-        "start_time": "2026-01-18T08:30:00.000Z",
-        "end_time": "2026-01-18T11:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4839891"
-    },
-    {
-        "schedule_id": 4839892,
-        "livestreaming_id": 20240,
-        "title": "Putri: Medan Falcons vs Jakarta Electric PLN Mobile - Proliga",
-        "league": "Proliga",
-        "channel": "Proliga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/LO-M34EOLRTPlZ8I7fK5k2apD2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4839892/545327.jpg",
-        "start_time": "2026-01-18T11:30:00.000Z",
-        "end_time": "2026-01-18T16:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4839892"
-    },
-    {
-        "schedule_id": 4840014,
-        "livestreaming_id": 6299,
-        "title": "Getafe vs Valencia - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/KsI_nh8PVoq_Zi_7Q08zLOEcGT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4840014/c96151.jpg",
-        "start_time": "2026-01-18T12:55:00.000Z",
-        "end_time": "2026-01-18T15:10:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4840014"
-    },
-    {
-        "schedule_id": 4840007,
-        "livestreaming_id": 19543,
-        "title": "Persiraja Banda Aceh vs PSMS Medan - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/MQmvQqx1cH1rbbjoGs_JhwZLJFI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4840007/794916.jpg",
-        "start_time": "2026-01-18T13:22:00.000Z",
-        "end_time": "2026-01-18T16:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4840007"
-    },
-    {
-        "schedule_id": 4840015,
-        "livestreaming_id": 6299,
-        "title": "Atletico Madrid vs Alaves - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/dv9NhiJvk7fPduWxeWNK7U_24P0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4840015/1e582d.jpg",
-        "start_time": "2026-01-18T15:10:00.000Z",
-        "end_time": "2026-01-18T17:25:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4840015"
-    },
-    {
-        "schedule_id": 4844089,
-        "livestreaming_id": 6299,
-        "title": "Celta Vigo vs Rayo Vallecano - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/YVvAx4AgJm1OXFks6lv0oK1nADE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4844089/079271.jpg",
-        "start_time": "2026-01-18T17:25:00.000Z",
-        "end_time": "2026-01-18T19:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4844089"
-    },
-    {
-        "schedule_id": 4844575,
-        "livestreaming_id": 6317,
-        "title": "Final: Senegal vs Morocco - TotalEnergies Africa Cup of Nations",
-        "league": "Africa Cup",
-        "channel": "Africa Cup",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/26D5Bnz68eJPMSGTWP-Tbk6AQc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4844575/e8676d.jpg",
-        "start_time": "2026-01-18T18:48:00.000Z",
-        "end_time": "2026-01-18T21:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6317-bein-3?schedule_id=4844575"
-    },
-    {
-        "schedule_id": 4844090,
-        "livestreaming_id": 6299,
-        "title": "Real Sociedad vs Barcelona - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/ntUJj1tcZiDWaQ1feDF0lxRAeEw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4844090/1989d4.jpg",
-        "start_time": "2026-01-18T19:55:00.000Z",
-        "end_time": "2026-01-18T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4844090"
-    },
-    {
         "schedule_id": 4843942,
         "livestreaming_id": 19541,
         "title": "Kendal Tornado FC vs Persipal FC - Pegadaian Championship",
@@ -130,5 +9,16 @@
         "start_time": "2026-01-19T11:52:00.000Z",
         "end_time": "2026-01-19T15:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4843942"
+    },
+    {
+        "schedule_id": 4848273,
+        "livestreaming_id": 6299,
+        "title": "Elche vs Sevilla - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/nGWA7MgrzAB0ugj4M2GbyeE4WIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848273/cd736b.jpg",
+        "start_time": "2026-01-19T19:55:00.000Z",
+        "end_time": "2026-01-19T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4848273"
     }
 ]
