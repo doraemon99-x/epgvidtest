@@ -1,15 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19541">
-  <display-name>Kendal Tornado FC vs Persipal FC - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260119115200 +0000" stop="20260119150000 +0000" channel="vidio-19541">
-  <title>Kendal Tornado FC vs Persipal FC - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Elche vs Sevilla - LaLiga</display-name>
-</channel>
-<programme start="20260119195500 +0000" stop="20260119220000 +0000" channel="vidio-6299">
-  <title>Elche vs Sevilla - LaLiga</title>
-</programme>
 </tv>
