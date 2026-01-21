@@ -1,1 +1,233 @@
-[]
+[
+    {
+        "schedule_id": 4848606,
+        "livestreaming_id": 6317,
+        "title": "Qarabag FK vs Eintracht Frankfurt - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/A_UXXhmelrvVxqbq_neN68F7Ezw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848606/bfcf9d.jpg",
+        "start_time": "2026-01-21T17:45:00.000Z",
+        "end_time": "2026-01-21T19:45:00.000Z",
+        "web_url": "https://www.vidio.com/live/6317-bein-3?schedule_id=4848606"
+    },
+    {
+        "schedule_id": 4848611,
+        "livestreaming_id": 17883,
+        "title": "Galatasaray vs Atletico Madrid - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/ZgzkbnvVUqLH6wm2aGUe8AuyfdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848611/99a7a0.jpg",
+        "start_time": "2026-01-21T17:45:00.000Z",
+        "end_time": "2026-01-21T20:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/17883-uefa-champions-league?schedule_id=4848611"
+    },
+    {
+        "schedule_id": 4848654,
+        "livestreaming_id": 18305,
+        "title": "Atalanta vs Athletic Club - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/q_I2A06sHbR2A4E9mpNq3fKwo-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848654/32761c.jpg",
+        "start_time": "2026-01-21T19:50:00.000Z",
+        "end_time": "2026-01-21T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18305-uefa-champions-league?schedule_id=4848654"
+    },
+    {
+        "schedule_id": 4848660,
+        "livestreaming_id": 18304,
+        "title": "Bayern vs Union Saint-Gilloise - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/LFTyJWo4UPFJgRlFxRIt4jOt2WM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848660/6d32f9.jpg",
+        "start_time": "2026-01-21T19:50:00.000Z",
+        "end_time": "2026-01-21T23:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18304-uefa-champions-league?schedule_id=4848660"
+    },
+    {
+        "schedule_id": 4848663,
+        "livestreaming_id": 18302,
+        "title": "Juventus vs Benfica - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Sj_CRQgcjx01n1Y7mt-Jqgly5TE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848663/c45dcf.jpg",
+        "start_time": "2026-01-21T19:50:00.000Z",
+        "end_time": "2026-01-21T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18302-uefa-champions-league?schedule_id=4848663"
+    },
+    {
+        "schedule_id": 4848666,
+        "livestreaming_id": 18303,
+        "title": "Newcastle vs PSV - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/GXBasmthPadRSgvoUgQRUm8RL_Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848666/4d9e80.jpg",
+        "start_time": "2026-01-21T19:50:00.000Z",
+        "end_time": "2026-01-21T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18303-uefa-champions-league?schedule_id=4848666"
+    },
+    {
+        "schedule_id": 4848604,
+        "livestreaming_id": 17875,
+        "title": "Slavia Praha vs Barcelona - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/zv97usIirISr3vGdzKm2lYELl3M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848604/e4181a.jpg",
+        "start_time": "2026-01-21T20:00:00.000Z",
+        "end_time": "2026-01-21T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4848604"
+    },
+    {
+        "schedule_id": 4848607,
+        "livestreaming_id": 6317,
+        "title": "Chelsea vs Pafos - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/wW0Bu22yj4RsgpD-Z9oz-cJxN_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848607/4f52a1.jpg",
+        "start_time": "2026-01-21T20:00:00.000Z",
+        "end_time": "2026-01-21T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6317-bein-3?schedule_id=4848607"
+    },
+    {
+        "schedule_id": 4848612,
+        "livestreaming_id": 17883,
+        "title": "Marseille vs Liverpool - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/U3AwOFqnRtWwk5U7O8D25gDo3e8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848612/5cd4c3.jpg",
+        "start_time": "2026-01-21T20:00:00.000Z",
+        "end_time": "2026-01-21T23:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/17883-uefa-champions-league?schedule_id=4848612"
+    },
+    {
+        "schedule_id": 4848808,
+        "livestreaming_id": 19354,
+        "title": "PERSIS vs Borneo FC Samarinda - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/UNYrDyCogCAFMZh5Z2qDRYFg3Rc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848808/150f7a.jpg",
+        "start_time": "2026-01-23T08:00:00.000Z",
+        "end_time": "2026-01-23T11:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4848808"
+    },
+    {
+        "schedule_id": 4848805,
+        "livestreaming_id": 19541,
+        "title": "Persikad vs FC Bekasi City - Pegadaian Championship",
+        "league": "Pegadaian Championship",
+        "channel": "Pegadaian Championship",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/BW8mvUrrIORgy-QpkziwnRkJRTU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848805/485020.jpg",
+        "start_time": "2026-01-23T08:22:00.000Z",
+        "end_time": "2026-01-23T10:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4848805"
+    },
+    {
+        "schedule_id": 4848809,
+        "livestreaming_id": 19354,
+        "title": "PERSIJA vs Madura United FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/LOuAmWC3QOlArQXpOO4yi3JkrXE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848809/0a0a5b.jpg",
+        "start_time": "2026-01-23T11:30:00.000Z",
+        "end_time": "2026-01-23T14:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4848809"
+    },
+    {
+        "schedule_id": 4848941,
+        "livestreaming_id": 19355,
+        "title": "Jelang Kick Off- PERSIJA vs Madura United FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/dAmDKPMzeV6xFD7dkMnio5lh1Z8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848941/9b813e.jpg",
+        "start_time": "2026-01-23T11:30:00.000Z",
+        "end_time": "2026-01-23T12:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4848941"
+    },
+    {
+        "schedule_id": 4848806,
+        "livestreaming_id": 19541,
+        "title": "PSPS Pekanbaru vs Adhyaksa FC - Pegadaian Championship",
+        "league": "Pegadaian Championship",
+        "channel": "Pegadaian Championship",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/dLhUjAgkWmaPeiwANrSynDuavOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848806/eb489d.jpg",
+        "start_time": "2026-01-23T11:52:00.000Z",
+        "end_time": "2026-01-23T14:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4848806"
+    },
+    {
+        "schedule_id": 4849202,
+        "livestreaming_id": 6299,
+        "title": "Levante vs Elche - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/1KgC5ufo7acmiFBI43hqglhh7B8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849202/ffa94c.jpg",
+        "start_time": "2026-01-23T19:55:00.000Z",
+        "end_time": "2026-01-23T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849202"
+    },
+    {
+        "schedule_id": 4849203,
+        "livestreaming_id": 6299,
+        "title": "Rayo Vallecano vs Osasuna - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/s0znX63x4fm_edMFA5_yB7GVJ2A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849203/dd1047.jpg",
+        "start_time": "2026-01-24T12:55:00.000Z",
+        "end_time": "2026-01-24T15:10:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849203"
+    },
+    {
+        "schedule_id": 4849204,
+        "livestreaming_id": 6299,
+        "title": "Valencia vs Espanyol - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/ApoZCmHCpXf6l0-CS-4lrywwjcE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849204/332f21.jpg",
+        "start_time": "2026-01-24T15:10:00.000Z",
+        "end_time": "2026-01-24T17:25:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849204"
+    },
+    {
+        "schedule_id": 4849205,
+        "livestreaming_id": 6299,
+        "title": "Sevilla vs Athletic Club - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Kw_cQb6YSf_gFKQ1gttY9BbdU7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849205/3d1336.jpg",
+        "start_time": "2026-01-24T17:25:00.000Z",
+        "end_time": "2026-01-24T19:40:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849205"
+    },
+    {
+        "schedule_id": 4849207,
+        "livestreaming_id": 6299,
+        "title": "Villarreal vs Real Madrid - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mURpHYmMu_AH-0DeZfkNI3vG3Jc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849207/90a478.jpg",
+        "start_time": "2026-01-24T19:55:00.000Z",
+        "end_time": "2026-01-24T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849207"
+    },
+    {
+        "schedule_id": 4849210,
+        "livestreaming_id": 6299,
+        "title": "Atletico Madrid vs Mallorca - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/N8J0raLxaH-GtR3FepXfK3yttIU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849210/9ef713.jpg",
+        "start_time": "2026-01-25T12:55:00.000Z",
+        "end_time": "2026-01-25T15:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849210"
+    },
+    {
+        "schedule_id": 4849212,
+        "livestreaming_id": 6299,
+        "title": "Barcelona vs Oviedo - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/dTEGVXw_WSEtWjJPtyZBgxZrkdc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4849212/a676d0.jpg",
+        "start_time": "2026-01-25T15:10:00.000Z",
+        "end_time": "2026-01-25T17:25:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4849212"
+    }
+]
