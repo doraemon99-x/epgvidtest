@@ -1,28 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19355">
-  <display-name>Jelang Kick Off - Dewa United Banten FC vs Arema FC - BRI Super League</display-name>
-</channel>
-<programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="vidio-19355">
-  <title>Jelang Kick Off - Dewa United Banten FC vs Arema FC - BRI Super League</title>
-</programme>
-<channel id="vidio-19354">
-  <display-name>Dewa United Banten FC vs Arema FC - BRI Super League</display-name>
-</channel>
-<programme start="20260126120000 +0000" stop="20260126140000 +0000" channel="vidio-19354">
-  <title>Dewa United Banten FC vs Arema FC - BRI Super League</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Girona vs Getafe - LaLiga</display-name>
-</channel>
-<programme start="20260126200000 +0000" stop="20260126220000 +0000" channel="vidio-6299">
-  <title>Girona vs Getafe - LaLiga</title>
-</programme>
 <channel id="vidio-20435">
   <display-name>Napoli vs Chelsea - UEFA Champions League</display-name>
 </channel>
 <programme start="20260128193000 +0000" stop="20260128220000 +0000" channel="vidio-20435">
   <title>Napoli vs Chelsea - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20429">
+  <display-name>Club Brugge vs Marseille - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20429">
+  <title>Club Brugge vs Marseille - UEFA Champions League</title>
+</programme>
+<channel id="vidio-18301">
+  <display-name>Ajax vs Olympiacos - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18301">
+  <title>Ajax vs Olympiacos - UEFA Champions League</title>
+</programme>
+<channel id="vidio-18302">
+  <display-name>Arsenal vs Kairat - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18302">
+  <title>Arsenal vs Kairat - UEFA Champions League</title>
+</programme>
+<channel id="vidio-18303">
+  <display-name>Athletic Club vs Sporting - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18303">
+  <title>Athletic Club vs Sporting - UEFA Champions League</title>
+</programme>
+<channel id="vidio-18304">
+  <display-name>Atletico Madrid vs Bodo/Glimt - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18304">
+  <title>Atletico Madrid vs Bodo/Glimt - UEFA Champions League</title>
+</programme>
+<channel id="vidio-18305">
+  <display-name>Barcelona vs Copenhagen - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18305">
+  <title>Barcelona vs Copenhagen - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20428">
+  <display-name>Benfica vs Real Madrid - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20428">
+  <title>Benfica vs Real Madrid - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20430">
+  <display-name>Dortmund vs Inter - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20430">
+  <title>Dortmund vs Inter - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20431">
+  <display-name>Eintracht Frankfurt vs Tottenham - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20431">
+  <title>Eintracht Frankfurt vs Tottenham - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20432">
+  <display-name>Leverkusen vs Villarreal - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20432">
+  <title>Leverkusen vs Villarreal - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20433">
+  <display-name>Man City vs Galatasaray - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20433">
+  <title>Man City vs Galatasaray - UEFA Champions League</title>
+</programme>
+<channel id="vidio-20434">
+  <display-name>Monaco vs Juventus - UEFA Champions League</display-name>
+</channel>
+<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20434">
+  <title>Monaco vs Juventus - UEFA Champions League</title>
 </programme>
 <channel id="vidio-20436">
   <display-name>Pafos vs Slavia Praha - UEFA Champions League</display-name>
@@ -42,77 +96,11 @@
 <programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20438">
   <title>Union Saint-Gilloise vs Atalanta - UEFA Champions League</title>
 </programme>
-<channel id="vidio-20430">
-  <display-name>Dortmund vs Inter - UEFA Champions League</display-name>
+<channel id="vidio-6299">
+  <display-name>PSG vs Newcastle - UEFA Champions League</display-name>
 </channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20430">
-  <title>Dortmund vs Inter - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20429">
-  <display-name>Club Brugge vs Marseille - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20429">
-  <title>Club Brugge vs Marseille - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20428">
-  <display-name>Benfica vs Real Madrid - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20428">
-  <title>Benfica vs Real Madrid - UEFA Champions League</title>
-</programme>
-<channel id="vidio-18305">
-  <display-name>Barcelona vs Copenhagen - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18305">
-  <title>Barcelona vs Copenhagen - UEFA Champions League</title>
-</programme>
-<channel id="vidio-18304">
-  <display-name>Atletico Madrid vs Bodo/Glimt - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18304">
-  <title>Atletico Madrid vs Bodo/Glimt - UEFA Champions League</title>
-</programme>
-<channel id="vidio-18303">
-  <display-name>Athletic Club vs Sporting - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18303">
-  <title>Athletic Club vs Sporting - UEFA Champions League</title>
-</programme>
-<channel id="vidio-18301">
-  <display-name>Ajax vs Olympiacos - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-18301">
-  <title>Ajax vs Olympiacos - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20431">
-  <display-name>Eintracht Frankfurt vs Tottenham - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20431">
-  <title>Eintracht Frankfurt vs Tottenham - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20433">
-  <display-name>Man City vs Galatasaray - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20433">
-  <title>Man City vs Galatasaray - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20434">
-  <display-name>Monaco vs Juventus - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20434">
-  <title>Monaco vs Juventus - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20432">
-  <display-name>Leverkusen vs Villarreal - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="vidio-20432">
-  <title>Leverkusen vs Villarreal - UEFA Champions League</title>
-</programme>
-<channel id="vidio-18302">
-  <display-name>Arsenal vs Kairat - UEFA Champions League</display-name>
-</channel>
-<programme start="20260128200000 +0000" stop="20260128220000 +0000" channel="vidio-18302">
-  <title>Arsenal vs Kairat - UEFA Champions League</title>
+<programme start="20260128195500 +0000" stop="20260128220000 +0000" channel="vidio-6299">
+  <title>PSG vs Newcastle - UEFA Champions League</title>
 </programme>
 <channel id="vidio-17875">
   <display-name>Liverpool vs Qarabag FK - UEFA Champions League</display-name>
@@ -120,10 +108,40 @@
 <programme start="20260128200000 +0000" stop="20260128220000 +0000" channel="vidio-17875">
   <title>Liverpool vs Qarabag FK - UEFA Champions League</title>
 </programme>
-<channel id="vidio-6299">
-  <display-name>PSG vs Newcastle - UEFA Champions League</display-name>
+<channel id="vidio-19353">
+  <display-name>PERSIK Kediri vs Bali United FC - BRI Super League</display-name>
 </channel>
-<programme start="20260128200000 +0000" stop="20260128220000 +0000" channel="vidio-6299">
-  <title>PSG vs Newcastle - UEFA Champions League</title>
+<programme start="20260130083000 +0000" stop="20260130110000 +0000" channel="vidio-19353">
+  <title>PERSIK Kediri vs Bali United FC - BRI Super League</title>
+</programme>
+<channel id="vidio-19354">
+  <display-name>PERSITA vs PERSIJA - BRI Super League</display-name>
+</channel>
+<programme start="20260130083000 +0000" stop="20260130110000 +0000" channel="vidio-19354">
+  <title>PERSITA vs PERSIJA - BRI Super League</title>
+</programme>
+<channel id="vidio-19353">
+  <display-name>PERSIS vs PERSIB - BRI Super League</display-name>
+</channel>
+<programme start="20260131082200 +0000" stop="20260131110000 +0000" channel="vidio-19353">
+  <title>PERSIS vs PERSIB - BRI Super League</title>
+</programme>
+<channel id="vidio-19737">
+  <display-name>Kuzeyboru vs Vakifbank - Turkish Women's Volleyball League</display-name>
+</channel>
+<programme start="20260131105500 +0000" stop="20260131130000 +0000" channel="vidio-19737">
+  <title>Kuzeyboru vs Vakifbank - Turkish Women's Volleyball League</title>
+</programme>
+<channel id="vidio-205">
+  <display-name>Madura United FC vs PSBS Biak - BRI Super League</display-name>
+</channel>
+<programme start="20260131113000 +0000" stop="20260131141000 +0000" channel="vidio-205">
+  <title>Madura United FC vs PSBS Biak - BRI Super League</title>
+</programme>
+<channel id="vidio-19354">
+  <display-name>PERSEBAYA Surabaya vs Dewa United Banten FC - BRI Super League</display-name>
+</channel>
+<programme start="20260201120000 +0000" stop="20260201150000 +0000" channel="vidio-19354">
+  <title>PERSEBAYA Surabaya vs Dewa United Banten FC - BRI Super League</title>
 </programme>
 </tv>

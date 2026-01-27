@@ -1,38 +1,5 @@
 [
     {
-        "schedule_id": 4850905,
-        "livestreaming_id": 19355,
-        "title": "Jelang Kick Off - Dewa United Banten FC vs Arema FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/G_tGFrlfJEv_m2HtfEsu6gAslUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850905/03d788.jpg",
-        "start_time": "2026-01-26T11:30:00.000Z",
-        "end_time": "2026-01-26T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4850905"
-    },
-    {
-        "schedule_id": 4850906,
-        "livestreaming_id": 19354,
-        "title": "Dewa United Banten FC vs Arema FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/W_b7JknsHwad3st4bIeUIhoaCDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850906/cf9c8a.jpg",
-        "start_time": "2026-01-26T12:00:00.000Z",
-        "end_time": "2026-01-26T14:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4850906"
-    },
-    {
-        "schedule_id": 4850860,
-        "livestreaming_id": 6299,
-        "title": "Girona vs Getafe - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/YGJySOuY31pZoUauus2Z0VIylDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850860/9621b7.jpg",
-        "start_time": "2026-01-26T20:00:00.000Z",
-        "end_time": "2026-01-26T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4850860"
-    },
-    {
         "schedule_id": 4854394,
         "livestreaming_id": 20435,
         "title": "Napoli vs Chelsea - UEFA Champions League",
@@ -42,6 +9,138 @@
         "start_time": "2026-01-28T19:30:00.000Z",
         "end_time": "2026-01-28T22:00:00.000Z",
         "web_url": "https://www.vidio.com/live/20435-uefa-champions-league?schedule_id=4854394"
+    },
+    {
+        "schedule_id": 4854382,
+        "livestreaming_id": 20429,
+        "title": "Club Brugge vs Marseille - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/bVFlqTC7IX6dWt2AmRxCBctGxNc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854382/2a29a1.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20429-uefa-champions-league?schedule_id=4854382"
+    },
+    {
+        "schedule_id": 4854370,
+        "livestreaming_id": 18301,
+        "title": "Ajax vs Olympiacos - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/TXGqFAhAMeLApEPUebbEHfv_dBI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854370/2c851b.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18301-uefa-champions-league?schedule_id=4854370"
+    },
+    {
+        "schedule_id": 4854372,
+        "livestreaming_id": 18302,
+        "title": "Arsenal vs Kairat - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/jqg8zIcjcG_w-6IT6H3fcPO3Yu0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854372/5ec232.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18302-uefa-champions-league?schedule_id=4854372"
+    },
+    {
+        "schedule_id": 4854374,
+        "livestreaming_id": 18303,
+        "title": "Athletic Club vs Sporting - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/r3mPhI23Cccd3UBQkSj_Upbev8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854374/7f3a53.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18303-uefa-champions-league?schedule_id=4854374"
+    },
+    {
+        "schedule_id": 4854376,
+        "livestreaming_id": 18304,
+        "title": "Atletico Madrid vs Bodo/Glimt - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/GncpWR4rrjshDBMK95zBCsZGkBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854376/3208b7.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18304-uefa-champions-league?schedule_id=4854376"
+    },
+    {
+        "schedule_id": 4854378,
+        "livestreaming_id": 18305,
+        "title": "Barcelona vs Copenhagen - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/itkuus_HtNXUu_7PbMB_3iEdqpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854378/58878a.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18305-uefa-champions-league?schedule_id=4854378"
+    },
+    {
+        "schedule_id": 4854380,
+        "livestreaming_id": 20428,
+        "title": "Benfica vs Real Madrid - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/qhNyokcOPx3QiJy1OL2vPIL91Xw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854380/84cc6f.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20428-uefa-champions-league?schedule_id=4854380"
+    },
+    {
+        "schedule_id": 4854384,
+        "livestreaming_id": 20430,
+        "title": "Dortmund vs Inter - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/mJfr_m9j_xYtIS6k1x7GfCSXFx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854384/d7f156.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20430-uefa-champions-league?schedule_id=4854384"
+    },
+    {
+        "schedule_id": 4854386,
+        "livestreaming_id": 20431,
+        "title": "Eintracht Frankfurt vs Tottenham - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/UJsEifnGLBxomGfzFzRwQnRbnA0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854386/2bbde6.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20431-uefa-champions-league?schedule_id=4854386"
+    },
+    {
+        "schedule_id": 4854388,
+        "livestreaming_id": 20432,
+        "title": "Leverkusen vs Villarreal - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/KjJnKiHpx47LX69jdT9LXMdP-mw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854388/a65d39.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20432-uefa-champions-league?schedule_id=4854388"
+    },
+    {
+        "schedule_id": 4854390,
+        "livestreaming_id": 20433,
+        "title": "Man City vs Galatasaray - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/wbMXxVlAjHjDfwnojNeQ4FmyPJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854390/ad217c.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20433-uefa-champions-league?schedule_id=4854390"
+    },
+    {
+        "schedule_id": 4854392,
+        "livestreaming_id": 20434,
+        "title": "Monaco vs Juventus - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/SsCcxs9YyK9kxPlDy7DU6SrpduY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854392/c2344d.jpg",
+        "start_time": "2026-01-28T19:50:00.000Z",
+        "end_time": "2026-01-28T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20434-uefa-champions-league?schedule_id=4854392"
     },
     {
         "schedule_id": 4854396,
@@ -77,136 +176,15 @@
         "web_url": "https://www.vidio.com/live/20438-uefa-champions-league?schedule_id=4854400"
     },
     {
-        "schedule_id": 4854384,
-        "livestreaming_id": 20430,
-        "title": "Dortmund vs Inter - UEFA Champions League",
+        "schedule_id": 4854367,
+        "livestreaming_id": 6299,
+        "title": "PSG vs Newcastle - UEFA Champions League",
         "league": "UEFA Champions League",
         "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/mJfr_m9j_xYtIS6k1x7GfCSXFx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854384/d7f156.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/YF0VVRHHU0Vo9kfCF4841UJWrGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854367/590782.jpg",
+        "start_time": "2026-01-28T19:55:00.000Z",
         "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20430-uefa-champions-league?schedule_id=4854384"
-    },
-    {
-        "schedule_id": 4854382,
-        "livestreaming_id": 20429,
-        "title": "Club Brugge vs Marseille - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/bVFlqTC7IX6dWt2AmRxCBctGxNc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854382/2a29a1.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20429-uefa-champions-league?schedule_id=4854382"
-    },
-    {
-        "schedule_id": 4854380,
-        "livestreaming_id": 20428,
-        "title": "Benfica vs Real Madrid - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/qhNyokcOPx3QiJy1OL2vPIL91Xw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854380/84cc6f.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20428-uefa-champions-league?schedule_id=4854380"
-    },
-    {
-        "schedule_id": 4854378,
-        "livestreaming_id": 18305,
-        "title": "Barcelona vs Copenhagen - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/itkuus_HtNXUu_7PbMB_3iEdqpo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854378/58878a.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/18305-uefa-champions-league?schedule_id=4854378"
-    },
-    {
-        "schedule_id": 4854376,
-        "livestreaming_id": 18304,
-        "title": "Atletico Madrid vs Bodo/Glimt - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/GncpWR4rrjshDBMK95zBCsZGkBc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854376/3208b7.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/18304-uefa-champions-league?schedule_id=4854376"
-    },
-    {
-        "schedule_id": 4854374,
-        "livestreaming_id": 18303,
-        "title": "Athletic Club vs Sporting - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/r3mPhI23Cccd3UBQkSj_Upbev8U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854374/7f3a53.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/18303-uefa-champions-league?schedule_id=4854374"
-    },
-    {
-        "schedule_id": 4854370,
-        "livestreaming_id": 18301,
-        "title": "Ajax vs Olympiacos - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/TXGqFAhAMeLApEPUebbEHfv_dBI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854370/2c851b.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/18301-uefa-champions-league?schedule_id=4854370"
-    },
-    {
-        "schedule_id": 4854386,
-        "livestreaming_id": 20431,
-        "title": "Eintracht Frankfurt vs Tottenham - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/UJsEifnGLBxomGfzFzRwQnRbnA0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854386/2bbde6.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20431-uefa-champions-league?schedule_id=4854386"
-    },
-    {
-        "schedule_id": 4854390,
-        "livestreaming_id": 20433,
-        "title": "Man City vs Galatasaray - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/wbMXxVlAjHjDfwnojNeQ4FmyPJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854390/ad217c.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20433-uefa-champions-league?schedule_id=4854390"
-    },
-    {
-        "schedule_id": 4854392,
-        "livestreaming_id": 20434,
-        "title": "Monaco vs Juventus - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/SsCcxs9YyK9kxPlDy7DU6SrpduY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854392/c2344d.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20434-uefa-champions-league?schedule_id=4854392"
-    },
-    {
-        "schedule_id": 4854388,
-        "livestreaming_id": 20432,
-        "title": "Leverkusen vs Villarreal - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/KjJnKiHpx47LX69jdT9LXMdP-mw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854388/a65d39.jpg",
-        "start_time": "2026-01-28T19:50:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20432-uefa-champions-league?schedule_id=4854388"
-    },
-    {
-        "schedule_id": 4854372,
-        "livestreaming_id": 18302,
-        "title": "Arsenal vs Kairat - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/jqg8zIcjcG_w-6IT6H3fcPO3Yu0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854372/5ec232.jpg",
-        "start_time": "2026-01-28T20:00:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/18302-uefa-champions-league?schedule_id=4854372"
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4854367"
     },
     {
         "schedule_id": 4854366,
@@ -220,14 +198,69 @@
         "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4854366"
     },
     {
-        "schedule_id": 4854367,
-        "livestreaming_id": 6299,
-        "title": "PSG vs Newcastle - UEFA Champions League",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/YF0VVRHHU0Vo9kfCF4841UJWrGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854367/590782.jpg",
-        "start_time": "2026-01-28T20:00:00.000Z",
-        "end_time": "2026-01-28T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4854367"
+        "schedule_id": 4856334,
+        "livestreaming_id": 19353,
+        "title": "PERSIK Kediri vs Bali United FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/WEDp6YO8ZuWvSH8utnrB4J1NECA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856334/7fbb7d.jpg",
+        "start_time": "2026-01-30T08:30:00.000Z",
+        "end_time": "2026-01-30T11:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19353-bri-super-league?schedule_id=4856334"
+    },
+    {
+        "schedule_id": 4856336,
+        "livestreaming_id": 19354,
+        "title": "PERSITA vs PERSIJA - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/l8tp_-xi1XZou6gM6zv2rmd57UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856336/9405f6.jpg",
+        "start_time": "2026-01-30T08:30:00.000Z",
+        "end_time": "2026-01-30T11:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4856336"
+    },
+    {
+        "schedule_id": 4856335,
+        "livestreaming_id": 19353,
+        "title": "PERSIS vs PERSIB - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/lN0e771g2qhp4DAQY04K-3NXnT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856335/564d0a.jpg",
+        "start_time": "2026-01-31T08:22:00.000Z",
+        "end_time": "2026-01-31T11:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19353-bri-super-league?schedule_id=4856335"
+    },
+    {
+        "schedule_id": 4857764,
+        "livestreaming_id": 19737,
+        "title": "Kuzeyboru vs Vakifbank - Turkish Women's Volleyball League",
+        "league": "Turkish Women's Volleyball League",
+        "channel": "Turkish Women's Volleyball League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/O4JPQHj-axe-iroPsU2rT2az03I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857764/687559.jpg",
+        "start_time": "2026-01-31T10:55:00.000Z",
+        "end_time": "2026-01-31T13:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19737-turkish-volleyball-league?schedule_id=4857764"
+    },
+    {
+        "schedule_id": 4856339,
+        "livestreaming_id": 205,
+        "title": "Madura United FC vs PSBS Biak - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/dJ3gyIwlGGwdFKh411EEm6lgX3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856339/ece3b9.jpg",
+        "start_time": "2026-01-31T11:30:00.000Z",
+        "end_time": "2026-01-31T14:10:00.000Z",
+        "web_url": "https://www.vidio.com/live/205-indosiar?schedule_id=4856339"
+    },
+    {
+        "schedule_id": 4856337,
+        "livestreaming_id": 19354,
+        "title": "PERSEBAYA Surabaya vs Dewa United Banten FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Srq_l3JjbHwYbG7rgCKDo2eba80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856337/2ba71c.jpg",
+        "start_time": "2026-02-01T12:00:00.000Z",
+        "end_time": "2026-02-01T15:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4856337"
     }
 ]
