@@ -1,126 +1,5 @@
 [
     {
-        "schedule_id": 4859832,
-        "livestreaming_id": 19355,
-        "title": "Jelang Kick Off - PERSITA vs PERSIJA - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/Fj7f7_FOahghYc-hBdjC8nt9uEk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859832/952bce.jpg",
-        "start_time": "2026-01-30T08:00:00.000Z",
-        "end_time": "2026-01-30T08:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4859832"
-    },
-    {
-        "schedule_id": 4857922,
-        "livestreaming_id": 19584,
-        "title": "PSIS Semarang vs Kendal Tornado FC - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/ojinq8LRSpi_bxDcQ0edaPC413Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857922/beb19b.jpg",
-        "start_time": "2026-01-30T08:22:00.000Z",
-        "end_time": "2026-01-30T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19584-pegadaian-championship-2025-26?schedule_id=4857922"
-    },
-    {
-        "schedule_id": 4857919,
-        "livestreaming_id": 19543,
-        "title": "Persiku Kudus vs Persipura Jayapura - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/Oy3XSp8oVLxxsjauMLWhbuq4leM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857919/e610b6.jpg",
-        "start_time": "2026-01-30T08:22:00.000Z",
-        "end_time": "2026-01-30T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4857919"
-    },
-    {
-        "schedule_id": 4856336,
-        "livestreaming_id": 19354,
-        "title": "PERSITA vs PERSIJA - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/l8tp_-xi1XZou6gM6zv2rmd57UY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856336/9405f6.jpg",
-        "start_time": "2026-01-30T08:30:00.000Z",
-        "end_time": "2026-01-30T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4856336"
-    },
-    {
-        "schedule_id": 4856334,
-        "livestreaming_id": 19353,
-        "title": "PERSIK Kediri vs Bali United FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/WEDp6YO8ZuWvSH8utnrB4J1NECA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856334/7fbb7d.jpg",
-        "start_time": "2026-01-30T08:30:00.000Z",
-        "end_time": "2026-01-30T11:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19353-bri-super-league?schedule_id=4856334"
-    },
-    {
-        "schedule_id": 4859827,
-        "livestreaming_id": 20240,
-        "title": "Putri: Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile - Proliga",
-        "league": "Proliga",
-        "channel": "Proliga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/3QkTCSQawxCoyX03OgdVbduzJ5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859827/6e6c1b.jpg",
-        "start_time": "2026-01-30T08:30:00.000Z",
-        "end_time": "2026-01-30T12:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4859827"
-    },
-    {
-        "schedule_id": 4863354,
-        "livestreaming_id": 6299,
-        "title": "UEFA Champions League Knockout Phase Play-off Draw 2025/26",
-        "league": "UEFA Champions League",
-        "channel": "UEFA Champions League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/tfFXGc64RCFGxNdTxD2X40aJFNE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863354/983b13.jpg",
-        "start_time": "2026-01-30T11:00:00.000Z",
-        "end_time": "2026-01-30T11:30:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4863354"
-    },
-    {
-        "schedule_id": 4857917,
-        "livestreaming_id": 19541,
-        "title": "PSMS Medan vs FC Bekasi City - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/nORQrreaasP8mRJW7l6CZTFNSfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857917/367c23.jpg",
-        "start_time": "2026-01-30T11:52:00.000Z",
-        "end_time": "2026-01-30T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4857917"
-    },
-    {
-        "schedule_id": 4857924,
-        "livestreaming_id": 19542,
-        "title": "Sumsel United vs Garudayaksa FC - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/yy9Y8ThqCexBuhahb1t_x85TKNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857924/1167d4.jpg",
-        "start_time": "2026-01-30T11:52:00.000Z",
-        "end_time": "2026-01-30T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19542-pegadaian-championship-2025-26?schedule_id=4857924"
-    },
-    {
-        "schedule_id": 4859828,
-        "livestreaming_id": 20240,
-        "title": "Putri: Medan Falcons vs Jakarta Pertamina Enduro - Proliga",
-        "league": "Proliga",
-        "channel": "Proliga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/PzY_WeZwbzEOKT0cALSUjD8Mz4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859828/962026.jpg",
-        "start_time": "2026-01-30T12:00:00.000Z",
-        "end_time": "2026-01-30T16:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4859828"
-    },
-    {
-        "schedule_id": 4859990,
-        "livestreaming_id": 6299,
-        "title": "Espanyol vs Alaves - LaLiga",
-        "league": "LaLiga",
-        "channel": "LaLiga",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/io_5oDbJhg33UqRtsJFuL6pKkgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859990/a0ea08.jpg",
-        "start_time": "2026-01-30T19:55:00.000Z",
-        "end_time": "2026-01-30T22:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4859990"
-    },
-    {
         "schedule_id": 4859834,
         "livestreaming_id": 19385,
         "title": "Malut United FC vs Bhayangkara Presisi Lampung FC - BRI Super League",
@@ -171,7 +50,7 @@
         "league": "Proliga",
         "channel": "Proliga",
         "cover_url": "https://thumbor.prod.vidiocdn.com/0PJUDF7vvJ3e2jY-n1x-qVDmyXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4859829/95181e.jpg",
-        "start_time": "2026-01-31T08:30:00.000Z",
+        "start_time": "2026-01-31T08:24:00.000Z",
         "end_time": "2026-01-31T12:00:00.000Z",
         "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4859829"
     },
@@ -198,6 +77,17 @@
         "web_url": "https://www.vidio.com/live/205-indosiar?schedule_id=4856339"
     },
     {
+        "schedule_id": 4857918,
+        "livestreaming_id": 19541,
+        "title": "Persiba Balikpapan vs Deltras FC - Pegadaian Championship",
+        "league": "Pegadaian Championship",
+        "channel": "Pegadaian Championship",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/yJ5pSzcbXAD2ry9lAVjD40-Z-0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857918/f43079.jpg",
+        "start_time": "2026-01-31T11:52:00.000Z",
+        "end_time": "2026-01-31T16:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4857918"
+    },
+    {
         "schedule_id": 4857921,
         "livestreaming_id": 19543,
         "title": "PSS Sleman vs PS. Barito Putera - Pegadaian Championship",
@@ -207,17 +97,6 @@
         "start_time": "2026-01-31T11:52:00.000Z",
         "end_time": "2026-01-31T15:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19543-pegadaian-championship-2025-26?schedule_id=4857921"
-    },
-    {
-        "schedule_id": 4857918,
-        "livestreaming_id": 19541,
-        "title": "Persiba Balikpapan vs Deltras FC - Pegadaian Championship",
-        "league": "Pegadaian Championship",
-        "channel": "Pegadaian Championship",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/yJ5pSzcbXAD2ry9lAVjD40-Z-0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4857918/f43079.jpg",
-        "start_time": "2026-01-31T11:52:00.000Z",
-        "end_time": "2026-01-31T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4857918"
     },
     {
         "schedule_id": 4859830,
@@ -352,17 +231,6 @@
         "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4860079"
     },
     {
-        "schedule_id": 4856337,
-        "livestreaming_id": 19354,
-        "title": "PERSEBAYA Surabaya vs Dewa United Banten FC - BRI Super League",
-        "league": "BRI Super League",
-        "channel": "BRI Super League",
-        "cover_url": "https://thumbor.prod.vidiocdn.com/Srq_l3JjbHwYbG7rgCKDo2eba80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856337/2ba71c.jpg",
-        "start_time": "2026-02-01T12:00:00.000Z",
-        "end_time": "2026-02-01T15:00:00.000Z",
-        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4856337"
-    },
-    {
         "schedule_id": 4860025,
         "livestreaming_id": 20240,
         "title": "Putri: Gresik Phonska Plus Pupuk Indonesia vs Medan Falcons - Proliga",
@@ -372,6 +240,17 @@
         "start_time": "2026-02-01T12:00:00.000Z",
         "end_time": "2026-02-01T14:30:00.000Z",
         "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4860025"
+    },
+    {
+        "schedule_id": 4856337,
+        "livestreaming_id": 19354,
+        "title": "PERSEBAYA Surabaya vs Dewa United Banten FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Srq_l3JjbHwYbG7rgCKDo2eba80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4856337/2ba71c.jpg",
+        "start_time": "2026-02-01T12:00:00.000Z",
+        "end_time": "2026-02-01T15:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4856337"
     },
     {
         "schedule_id": 4860081,
@@ -405,5 +284,49 @@
         "start_time": "2026-02-01T16:00:00.000Z",
         "end_time": "2026-02-01T18:00:00.000Z",
         "web_url": "https://www.vidio.com/live/19737-turkish-volleyball-league?schedule_id=4860083"
+    },
+    {
+        "schedule_id": 4863385,
+        "livestreaming_id": 6299,
+        "title": "Getafe vs Celta Vigo - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/wLSsvB32Ulp2v8V2yTpmJQVwzaw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863385/d6b3d2.jpg",
+        "start_time": "2026-02-01T17:30:00.000Z",
+        "end_time": "2026-02-01T19:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4863385"
+    },
+    {
+        "schedule_id": 4863386,
+        "livestreaming_id": 6299,
+        "title": "Athletic Club vs Real Sociedad - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/s_mcP07kAIWbitLgQ8Dexndjn5k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863386/ee1469.jpg",
+        "start_time": "2026-02-01T20:00:00.000Z",
+        "end_time": "2026-02-01T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4863386"
+    },
+    {
+        "schedule_id": 4863387,
+        "livestreaming_id": 19354,
+        "title": "Arema FC vs PERSIJAP - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/YyYA0b6oTFuAN3qOsFHdV1Q2yEI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863387/949d30.jpg",
+        "start_time": "2026-02-02T08:00:00.000Z",
+        "end_time": "2026-02-02T10:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4863387"
+    },
+    {
+        "schedule_id": 4863391,
+        "livestreaming_id": 6299,
+        "title": "Mallorca vs Sevilla - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/e0MvPgerj5SyV93w0VSPfIEP3W8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4863391/eba415.jpg",
+        "start_time": "2026-02-02T20:00:00.000Z",
+        "end_time": "2026-02-02T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4863391"
     }
 ]
