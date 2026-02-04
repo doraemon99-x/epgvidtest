@@ -36,6 +36,12 @@
 <programme start="20260206120000 +0000" stop="20260206143000 +0000" channel="vidio-20240">
   <title>Putri: Jakarta Livin Mandiri vs Medan Falcons - Proliga</title>
 </programme>
+<channel id="vidio-6299">
+  <display-name>Celta Vigo vs Osasuna - LaLiga</display-name>
+</channel>
+<programme start="20260206195500 +0000" stop="20260206220000 +0000" channel="vidio-6299">
+  <title>Celta Vigo vs Osasuna - LaLiga</title>
+</programme>
 <channel id="vidio-19354">
   <display-name>PERSIK Kediri vs Dewa United Banten FC - BRI Super League</display-name>
 </channel>
@@ -66,6 +72,36 @@
 <programme start="20260207120000 +0000" stop="20260207143000 +0000" channel="vidio-20240">
   <title>Putra: Jakarta Bhayangkara Presisi vs Medan Falcons Tirta Bhagasasi - Proliga</title>
 </programme>
+<channel id="vidio-6299">
+  <display-name>Rayo Vallecano vs Oviedo - LaLiga</display-name>
+</channel>
+<programme start="20260207130000 +0000" stop="20260207150000 +0000" channel="vidio-6299">
+  <title>Rayo Vallecano vs Oviedo - LaLiga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Barcelona vs Mallorca - LaLiga</display-name>
+</channel>
+<programme start="20260207151000 +0000" stop="20260207171500 +0000" channel="vidio-6299">
+  <title>Barcelona vs Mallorca - LaLiga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Sevilla vs Girona - LaLiga</display-name>
+</channel>
+<programme start="20260207172500 +0000" stop="20260207193000 +0000" channel="vidio-6299">
+  <title>Sevilla vs Girona - LaLiga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Real Sociedad vs Elche - LaLiga</display-name>
+</channel>
+<programme start="20260207195500 +0000" stop="20260207220000 +0000" channel="vidio-6299">
+  <title>Real Sociedad vs Elche - LaLiga</title>
+</programme>
+<channel id="vidio-20240">
+  <display-name>Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Livin Mandiri - Proliga</display-name>
+</channel>
+<programme start="20260208053000 +0000" stop="20260208084500 +0000" channel="vidio-20240">
+  <title>Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Livin Mandiri - Proliga</title>
+</programme>
 <channel id="vidio-19354">
   <display-name>PSBS Biak vs PSM Makassar - BRI Super League</display-name>
 </channel>
@@ -78,10 +114,34 @@
 <programme start="20260208082200 +0000" stop="20260208110000 +0000" channel="vidio-19385">
   <title>Semen Padang FC vs PERSITA - BRI Super League</title>
 </programme>
+<channel id="vidio-20240">
+  <display-name>Putra: Jakarta Lavani Livin Transmedia vs Jakarta Garuda Jaya - Proliga</display-name>
+</channel>
+<programme start="20260208084500 +0000" stop="20260208113000 +0000" channel="vidio-20240">
+  <title>Putra: Jakarta Lavani Livin Transmedia vs Jakarta Garuda Jaya - Proliga</title>
+</programme>
 <channel id="vidio-19354">
   <display-name>PERSIJA vs Arema FC - BRI Super League</display-name>
 </channel>
 <programme start="20260208113000 +0000" stop="20260208150000 +0000" channel="vidio-19354">
   <title>PERSIJA vs Arema FC - BRI Super League</title>
+</programme>
+<channel id="vidio-20240">
+  <display-name>Putri: Jakarta Pertamina Enduro vs Medan Falcons - Proliga</display-name>
+</channel>
+<programme start="20260208113000 +0000" stop="20260208160000 +0000" channel="vidio-20240">
+  <title>Putri: Jakarta Pertamina Enduro vs Medan Falcons - Proliga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Alaves vs Getafe - LaLiga</display-name>
+</channel>
+<programme start="20260208125500 +0000" stop="20260208150000 +0000" channel="vidio-6299">
+  <title>Alaves vs Getafe - LaLiga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Athletic Club vs Levante - LaLiga</display-name>
+</channel>
+<programme start="20260208151000 +0000" stop="20260208171500 +0000" channel="vidio-6299">
+  <title>Athletic Club vs Levante - LaLiga</title>
 </programme>
 </tv>
