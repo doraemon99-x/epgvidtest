@@ -1,84 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/B0RYcRXUvTHsQFGzCOZBvhJ9Koc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884699/88a86b.jpg" group-title="BRI Super League",PSIM Jogja vs PERSIS - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19354
-#EXTINF:-1 tvg-id="vidio-20240" tvg-logo="https://thumbor.prod.vidiocdn.com/M_DLMKbycIdzT3y7ClicjKbZRcs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884897/6f01cf.jpg" group-title="BRI Super League",Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Popsivo Polwan - Proliga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20240
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20240
-#EXTINF:-1 tvg-id="vidio-19355" tvg-logo="https://thumbor.prod.vidiocdn.com/dMxvLHvhTVLfPDI8yxnr8RqERn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887609/5c6dce.jpg" group-title="BRI Super League",Jelang Kick Off PERSIB vs Malut United FC - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19355
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19355
-#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/nkupgZjZiSHBefvJEQqEWhGBJUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884700/d0c74c.jpg" group-title="BRI Super League",PERSIB vs Malut United FC - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19354
-#EXTINF:-1 tvg-id="vidio-16890" tvg-logo="https://thumbor.prod.vidiocdn.com/1ogrt0E_TDcekBXzAwZR19nlMlg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887852/237292.jpg" group-title="BRI Super League",ONE Friday Fights 141
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/16890
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/16890
-#EXTINF:-1 tvg-id="vidio-20240" tvg-logo="https://thumbor.prod.vidiocdn.com/nOMUGKHTYjWh1GKJkepVKF01p8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884898/d9d97e.jpg" group-title="BRI Super League",Putri: Jakarta Livin Mandiri vs Medan Falcons - Proliga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20240
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20240
-#EXTINF:-1 tvg-id="vidio-6786" tvg-logo="https://thumbor.prod.vidiocdn.com/duq--UsEqM3290kEVnRlJ0I43xM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884847/1d6d9c.jpg" group-title="BRI Super League",WTA 500: Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council 2026 - Semifinal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6786
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6786
-#EXTINF:-1 tvg-id="vidio-19779" tvg-logo="https://thumbor.prod.vidiocdn.com/A1lEo9bBDkDRprTYUHIE96FbSFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884904/b97397.jpg" group-title="BRI Super League",WTA 250: Ostrava Open 2026 - Semifinal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19779
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19779
-#EXTINF:-1 tvg-id="vidio-6299" tvg-logo="https://thumbor.prod.vidiocdn.com/9OwPOo2gqWnxIb7VP9943Q6vEvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887286/55aada.jpg" group-title="BRI Super League",Celta Vigo vs Osasuna - LaLiga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/6299
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/6299
-#EXTINF:-1 tvg-id="vidio-20510" tvg-logo="https://thumbor.prod.vidiocdn.com/dOjYhzkk-2q0UpNme1RttejvwUY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887854/1aaba2.jpg" group-title="BRI Super League",Carabao International Open 2026 - Day 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20510
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20510
 #EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/0NESE0P0IHqS9oui1hpCVNtuu4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884701/9acafd.jpg" group-title="BRI Super League",PERSIK Kediri vs Dewa United Banten FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -103,14 +23,6 @@ https://tipiku.biz.id/dash/20240
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19353
-#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/LKiemXPy5O4JcFu8G5OFG9rRK20=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884702/32f409.jpg" group-title="BRI Super League",Bali United FC vs PERSEBAYA Surabaya - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/19354
 #EXTINF:-1 tvg-id="vidio-19355" tvg-logo="https://thumbor.prod.vidiocdn.com/MmxfIVgxI95nQFUbB_fufAr7Jvs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887610/f11aa6.jpg" group-title="BRI Super League",Jelang Kick Off Bali United FC vs PERSEBAYA Surabaya - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -119,6 +31,14 @@ https://tipiku.biz.id/dash/19354
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19355
+#EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/LKiemXPy5O4JcFu8G5OFG9rRK20=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884702/32f409.jpg" group-title="BRI Super League",Bali United FC vs PERSEBAYA Surabaya - BRI Super League
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/19354
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://tv.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
+https://tipiku.biz.id/dash/19354
 #EXTINF:-1 tvg-id="vidio-19385" tvg-logo="https://thumbor.prod.vidiocdn.com/4KSQTYL-l8Xf9slkOgvf9Se4GVY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884906/d0cf31.jpg" group-title="BRI Super League",PERSIJAP vs Madura United FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -183,6 +103,14 @@ https://tipiku.biz.id/dash/6299
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/6299
+#EXTINF:-1 tvg-id="vidio-20510" tvg-logo="https://thumbor.prod.vidiocdn.com/4RZdWCXtJ3Y4sbU5aBw05zHwGvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4891415/899178.jpg" group-title="BRI Super League",Carabao International Open 2026 - Day 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20510
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://tv.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
+https://tipiku.biz.id/dash/20510
 #EXTINF:-1 tvg-id="vidio-20240" tvg-logo="https://thumbor.prod.vidiocdn.com/M0qQWrvWdQoNRl8WE6Rs5vAAP9Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887240/679c7f.jpg" group-title="BRI Super League",Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Livin Mandiri - Proliga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -215,14 +143,6 @@ https://tipiku.biz.id/dash/19385
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/20240
-#EXTINF:-1 tvg-id="vidio-20240" tvg-logo="https://thumbor.prod.vidiocdn.com/CzlMdHB67Kp5kKxMrDaD6dX4zBA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887242/7fba15.jpg" group-title="BRI Super League",Putri: Jakarta Pertamina Enduro vs Medan Falcons - Proliga
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20240
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://tv.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
-https://tipiku.biz.id/dash/20240
 #EXTINF:-1 tvg-id="vidio-19355" tvg-logo="https://thumbor.prod.vidiocdn.com/C8gY3r1fGNRhU-A8VJ2d02ls8vY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887611/0c5499.jpg" group-title="BRI Super League",Jelang Kick Off PERSIJA vs Arema FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -231,6 +151,14 @@ https://tipiku.biz.id/dash/20240
 #EXTVLCOPT:http-referrer=https://tv.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
 https://tipiku.biz.id/dash/19355
+#EXTINF:-1 tvg-id="vidio-20240" tvg-logo="https://thumbor.prod.vidiocdn.com/CzlMdHB67Kp5kKxMrDaD6dX4zBA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4887242/7fba15.jpg" group-title="BRI Super League",Putri: Jakarta Pertamina Enduro vs Medan Falcons - Proliga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tipiku.biz.id/pally/20240
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://tv.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Smart TV Build/AR2101; wv)
+https://tipiku.biz.id/dash/20240
 #EXTINF:-1 tvg-id="vidio-19354" tvg-logo="https://thumbor.prod.vidiocdn.com/g-OUsx80JwJkUr7re9ZBCOaW_uI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4884900/f8544b.jpg" group-title="BRI Super League",PERSIJA vs Arema FC - BRI Super League
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
