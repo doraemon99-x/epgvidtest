@@ -1,33 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19541">
-  <display-name>Sriwijaya FC vs FC Bekasi City - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260216082200 +0000" stop="20260216110000 +0000" channel="vidio-19541">
-  <title>Sriwijaya FC vs FC Bekasi City - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-19354">
-  <display-name>PERSITA vs PSBS Biak - BRI Super League</display-name>
-</channel>
-<programme start="20260216083000 +0000" stop="20260216110000 +0000" channel="vidio-19354">
-  <title>PERSITA vs PSBS Biak - BRI Super League</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Girona vs Barcelona - LaLiga</display-name>
-</channel>
-<programme start="20260216195500 +0000" stop="20260216220000 +0000" channel="vidio-6299">
-  <title>Girona vs Barcelona - LaLiga</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Galatasaray vs Juventus - UEFA Champions League</display-name>
-</channel>
-<programme start="20260217174500 +0000" stop="20260217194500 +0000" channel="vidio-6299">
-  <title>Galatasaray vs Juventus - UEFA Champions League</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Benfica vs Real Madrid - UEFA Champions League</display-name>
-</channel>
-<programme start="20260217200000 +0000" stop="20260217220000 +0000" channel="vidio-6299">
-  <title>Benfica vs Real Madrid - UEFA Champions League</title>
-</programme>
 </tv>
