@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "schedule_id": 4902053,
+        "livestreaming_id": 6299,
+        "title": "Qarabag FK vs Newcastle - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/pvtPr_F1aarGBGIFQ5MeJgpU3lo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902053/9477ef.jpg",
+        "start_time": "2026-02-18T17:45:00.000Z",
+        "end_time": "2026-02-18T19:45:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4902053",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902059,
+        "livestreaming_id": 20810,
+        "title": "Levante vs Villarreal - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/YYuo19Nv_OIsralXNq7dPHzwZk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902059/973231.jpg",
+        "start_time": "2026-02-18T19:00:00.000Z",
+        "end_time": "2026-02-18T21:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20810-laliga?schedule_id=4902059",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902236,
+        "livestreaming_id": 18436,
+        "title": "Bodo/Glimt vs Inter - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/WAhvWYAx_yV1mGcLK2Zq-Cjhyc8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902236/15e085.jpg",
+        "start_time": "2026-02-18T19:50:00.000Z",
+        "end_time": "2026-02-18T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/18436-uefa-champions-league?schedule_id=4902236",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902056,
+        "livestreaming_id": 6317,
+        "title": "Club Brugge vs Atletico Madrid - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/afdxlB8EY4GNZTK6IizWnCtnbeM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902056/9d6400.jpg",
+        "start_time": "2026-02-18T20:00:00.000Z",
+        "end_time": "2026-02-18T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6317-bein-3?schedule_id=4902056",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902055,
+        "livestreaming_id": 17875,
+        "title": "Olympiacos vs Leverkusen - UEFA Champions League",
+        "league": "UEFA Champions League",
+        "channel": "UEFA Champions League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/iESHr9oRFLqNMSL85ju0UpRjdjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902055/d898f2.jpg",
+        "start_time": "2026-02-18T20:00:00.000Z",
+        "end_time": "2026-02-18T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/17875-bein-2?schedule_id=4902055",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902062,
+        "livestreaming_id": 20240,
+        "title": "Putri: Jakarta Popsivo Polwan vs Bandung BJB Tandamata - Proliga",
+        "league": "Proliga",
+        "channel": "Proliga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/B-CEKZMEwHWMsUtOMVkcPo75pdA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902062/90dd3a.jpg",
+        "start_time": "2026-02-19T13:30:00.000Z",
+        "end_time": "2026-02-19T16:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4902062",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4903199,
+        "livestreaming_id": 19354,
+        "title": "PERSIJA vs PSM Makassar - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/5x9_uV2B-1aTW_0zVc3GonbSyvQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4903199/6f1699.jpg",
+        "start_time": "2026-02-20T13:00:00.000Z",
+        "end_time": "2026-02-20T16:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4903199",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902100,
+        "livestreaming_id": 19542,
+        "title": "Adhyaksa FC vs PSPS Pekanbaru - Pegadaian Championship",
+        "league": "Pegadaian Championship",
+        "channel": "Pegadaian Championship",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/JEpLig0b--e3jXYMSEmnghmULik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902100/a6c10f.jpg",
+        "start_time": "2026-02-20T13:20:00.000Z",
+        "end_time": "2026-02-20T15:20:00.000Z",
+        "web_url": "https://www.vidio.com/live/19542-pegadaian-championship-2025-26?schedule_id=4902100",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902102,
+        "livestreaming_id": 19541,
+        "title": "Sriwijaya FC vs Persikad - Pegadaian Championship",
+        "league": "Pegadaian Championship",
+        "channel": "Pegadaian Championship",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/AHbwpfflj1BK1bNsuOjYjsu0KRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902102/6a1b12.jpg",
+        "start_time": "2026-02-20T13:30:00.000Z",
+        "end_time": "2026-02-20T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19541-pegadaian-championship-2025-26?schedule_id=4902102",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4902101,
+        "livestreaming_id": 20240,
+        "title": "Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Electric PLN Mobile - Proliga",
+        "league": "Proliga",
+        "channel": "Proliga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/Oe6FvIF44f0fYErMg9W920POU28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4902101/357405.jpg",
+        "start_time": "2026-02-20T13:30:00.000Z",
+        "end_time": "2026-02-20T16:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/20240-proliga-2026?schedule_id=4902101",
+        "type": "livestreaming_schedule"
+    }
+]
