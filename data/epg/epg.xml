@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-6299">
-  <display-name>Getafe vs Sevilla - LaLiga</display-name>
-</channel>
-<programme start="20260222125500 +0000" stop="20260222151000 +0000" channel="vidio-6299">
-  <title>Getafe vs Sevilla - LaLiga</title>
-</programme>
-<channel id="vidio-19354">
-  <display-name>PERSIB vs PERSITA - BRI Super League</display-name>
-</channel>
-<programme start="20260222130000 +0000" stop="20260222153000 +0000" channel="vidio-19354">
-  <title>PERSIB vs PERSITA - BRI Super League</title>
-</programme>
-<channel id="vidio-19355">
-  <display-name>Jelang Kick Off - PERSIB vs PERSITA - BRI Super League</display-name>
-</channel>
-<programme start="20260222130000 +0000" stop="20260222133000 +0000" channel="vidio-19355">
-  <title>Jelang Kick Off - PERSIB vs PERSITA - BRI Super League</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Jakarta Livin Mandiri vs Bandung BJB Tandamata - Proliga</display-name>
-</channel>
-<programme start="20260222130000 +0000" stop="20260222160000 +0000" channel="vidio-20240">
-  <title>Putri: Jakarta Livin Mandiri vs Bandung BJB Tandamata - Proliga</title>
-</programme>
-<channel id="vidio-19353">
-  <display-name>Dewa United Banten FC vs Borneo FC Samarinda - BRI Super League</display-name>
-</channel>
-<programme start="20260222132200 +0000" stop="20260222160000 +0000" channel="vidio-19353">
-  <title>Dewa United Banten FC vs Borneo FC Samarinda - BRI Super League</title>
-</programme>
-<channel id="vidio-20833">
-  <display-name>PS. Barito Putera vs Kendal Tornado FC - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260222132200 +0000" stop="20260222180000 +0000" channel="vidio-20833">
-  <title>PS. Barito Putera vs Kendal Tornado FC - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-19584">
-  <display-name>Deltras FC vs PSIS Semarang - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260222132200 +0000" stop="20260222160000 +0000" channel="vidio-19584">
-  <title>Deltras FC vs PSIS Semarang - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-19543">
-  <display-name>FC Bekasi City vs Persiraja Banda Aceh - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260222132200 +0000" stop="20260222153000 +0000" channel="vidio-19543">
-  <title>FC Bekasi City vs Persiraja Banda Aceh - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-19883">
-  <display-name>Sumsel United vs Garudayaksa FC - Pegadaian Championship</display-name>
-</channel>
-<programme start="20260222132200 +0000" stop="20260222170000 +0000" channel="vidio-19883">
-  <title>Sumsel United vs Garudayaksa FC - Pegadaian Championship</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Barcelona vs Levante - LaLiga</display-name>
-</channel>
-<programme start="20260222151000 +0000" stop="20260222172500 +0000" channel="vidio-6299">
-  <title>Barcelona vs Levante - LaLiga</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Celta Vigo vs Mallorca - LaLiga</display-name>
-</channel>
-<programme start="20260222172500 +0000" stop="20260222194000 +0000" channel="vidio-6299">
-  <title>Celta Vigo vs Mallorca - LaLiga</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Villarreal vs Valencia - LaLiga</display-name>
-</channel>
-<programme start="20260222195500 +0000" stop="20260222220000 +0000" channel="vidio-6299">
-  <title>Villarreal vs Valencia - LaLiga</title>
-</programme>
 <channel id="vidio-19541">
   <display-name>Persipal FC vs Persiba Balikpapan - Pegadaian Championship</display-name>
 </channel>
@@ -83,5 +11,59 @@
 </channel>
 <programme start="20260223133000 +0000" stop="20260223160000 +0000" channel="vidio-19354">
   <title>PSIM Jogja vs Bali United FC - BRI Super League</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Alaves vs Girona - LaLiga</display-name>
+</channel>
+<programme start="20260223200000 +0000" stop="20260223220000 +0000" channel="vidio-6299">
+  <title>Alaves vs Girona - LaLiga</title>
+</programme>
+<channel id="vidio-19353">
+  <display-name>Malut United FC vs PERSIJA - BRI Super League</display-name>
+</channel>
+<programme start="20260224112500 +0000" stop="20260224140000 +0000" channel="vidio-19353">
+  <title>Malut United FC vs PERSIJA - BRI Super League</title>
+</programme>
+<channel id="vidio-19383">
+  <display-name>Jelang Kick Off Malut United FC vs PERSIJA - BRI Super League</display-name>
+</channel>
+<programme start="20260224113000 +0000" stop="20260224120000 +0000" channel="vidio-19383">
+  <title>Jelang Kick Off Malut United FC vs PERSIJA - BRI Super League</title>
+</programme>
+<channel id="vidio-205">
+  <display-name>Bhayangkara Presisi Lampung FC vs Semen Padang FC - BRI Super League</display-name>
+</channel>
+<programme start="20260224133000 +0000" stop="20260224153000 +0000" channel="vidio-205">
+  <title>Bhayangkara Presisi Lampung FC vs Semen Padang FC - BRI Super League</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Atletico Madrid vs Club Brugge - UEFA Champions League</display-name>
+</channel>
+<programme start="20260224174500 +0000" stop="20260224194500 +0000" channel="vidio-6299">
+  <title>Atletico Madrid vs Club Brugge - UEFA Champions League</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>Leverkusen vs Olympiacos - UEFA Champions League</display-name>
+</channel>
+<programme start="20260224200000 +0000" stop="20260224220000 +0000" channel="vidio-17875">
+  <title>Leverkusen vs Olympiacos - UEFA Champions League</title>
+</programme>
+<channel id="vidio-6317">
+  <display-name>Newcastle vs Qarabag FK - UEFA Champions League</display-name>
+</channel>
+<programme start="20260224200000 +0000" stop="20260224220000 +0000" channel="vidio-6317">
+  <title>Newcastle vs Qarabag FK - UEFA Champions League</title>
+</programme>
+<channel id="vidio-18436">
+  <display-name>Inter vs Bodo/Glimt - UEFA Champions League</display-name>
+</channel>
+<programme start="20260224200000 +0000" stop="20260224220000 +0000" channel="vidio-18436">
+  <title>Inter vs Bodo/Glimt - UEFA Champions League</title>
+</programme>
+<channel id="vidio-19738">
+  <display-name>Halkbank vs Fenerbahce Medicana - Turkish Men's Volleyball League</display-name>
+</channel>
+<programme start="20260225120000 +0000" stop="20260225140000 +0000" channel="vidio-19738">
+  <title>Halkbank vs Fenerbahce Medicana - Turkish Men's Volleyball League</title>
 </programme>
 </tv>
