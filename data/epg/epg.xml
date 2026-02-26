@@ -1,52 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19738">
-  <display-name>Halkbank vs Fenerbahce Medicana - Turkish Men's Volleyball League</display-name>
-</channel>
-<programme start="20260225120000 +0000" stop="20260225140000 +0000" channel="vidio-19738">
-  <title>Halkbank vs Fenerbahce Medicana - Turkish Men's Volleyball League</title>
-</programme>
 <channel id="vidio-19355">
-  <display-name>Jelang Kick Off PERSEBAYA Surabaya vs PSM Makassar - BRI Super League</display-name>
+  <display-name>Jelang Kick Off PERSIB vs Madura United FC - BRI Super League</display-name>
 </channel>
-<programme start="20260225130000 +0000" stop="20260225133000 +0000" channel="vidio-19355">
-  <title>Jelang Kick Off PERSEBAYA Surabaya vs PSM Makassar - BRI Super League</title>
-</programme>
-<channel id="vidio-19354">
-  <display-name>PERSEBAYA Surabaya vs PSM Makassar - BRI Super League</display-name>
-</channel>
-<programme start="20260225133000 +0000" stop="20260225153000 +0000" channel="vidio-19354">
-  <title>PERSEBAYA Surabaya vs PSM Makassar - BRI Super League</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Atalanta vs Dortmund - UEFA Champions League</display-name>
-</channel>
-<programme start="20260225174500 +0000" stop="20260225194500 +0000" channel="vidio-6299">
-  <title>Atalanta vs Dortmund - UEFA Champions League</title>
-</programme>
-<channel id="vidio-17875">
-  <display-name>Juventus vs Galatasaray - UEFA Champions League</display-name>
-</channel>
-<programme start="20260225200000 +0000" stop="20260225220000 +0000" channel="vidio-17875">
-  <title>Juventus vs Galatasaray - UEFA Champions League</title>
-</programme>
-<channel id="vidio-18436">
-  <display-name>PSG vs Monaco - UEFA Champions League</display-name>
-</channel>
-<programme start="20260225200000 +0000" stop="20260225230000 +0000" channel="vidio-18436">
-  <title>PSG vs Monaco - UEFA Champions League</title>
-</programme>
-<channel id="vidio-6317">
-  <display-name>Real Madrid vs Benfica - UEFA Champions League</display-name>
-</channel>
-<programme start="20260225200000 +0000" stop="20260225220000 +0000" channel="vidio-6317">
-  <title>Real Madrid vs Benfica - UEFA Champions League</title>
-</programme>
-<channel id="vidio-20240">
-  <display-name>Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga</display-name>
-</channel>
-<programme start="20260226133000 +0000" stop="20260226160000 +0000" channel="vidio-20240">
-  <title>Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga</title>
+<programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="vidio-19355">
+  <title>Jelang Kick Off PERSIB vs Madura United FC - BRI Super League</title>
 </programme>
 <channel id="vidio-19354">
   <display-name>PERSIB vs Madura United FC - BRI Super League</display-name>
@@ -54,17 +12,35 @@
 <programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="vidio-19354">
   <title>PERSIB vs Madura United FC - BRI Super League</title>
 </programme>
-<channel id="vidio-19384">
-  <display-name>Borneo FC Samarinda vs Arema FC - BRI Super League</display-name>
+<channel id="vidio-20240">
+  <display-name>Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga</display-name>
 </channel>
-<programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="vidio-19384">
-  <title>Borneo FC Samarinda vs Arema FC - BRI Super League</title>
+<programme start="20260226133000 +0000" stop="20260226160000 +0000" channel="vidio-20240">
+  <title>Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga</title>
 </programme>
 <channel id="vidio-19353">
   <display-name>PERSITA vs Dewa United Banten FC - BRI Super League</display-name>
 </channel>
 <programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="vidio-19353">
   <title>PERSITA vs Dewa United Banten FC - BRI Super League</title>
+</programme>
+<channel id="vidio-19384">
+  <display-name>Borneo FC Samarinda vs Arema FC - BRI Super League</display-name>
+</channel>
+<programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="vidio-19384">
+  <title>Borneo FC Samarinda vs Arema FC - BRI Super League</title>
+</programme>
+<channel id="vidio-20654">
+  <display-name>Galatasaray HDI Sigorta vs Ziraat Bankkart - Turkish Men's Volleyball League</display-name>
+</channel>
+<programme start="20260226165500 +0000" stop="20260226220000 +0000" channel="vidio-20654">
+  <title>Galatasaray HDI Sigorta vs Ziraat Bankkart - Turkish Men's Volleyball League</title>
+</programme>
+<channel id="vidio-17875">
+  <display-name>UEFA Champions League Draw 2025/26</display-name>
+</channel>
+<programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="vidio-17875">
+  <title>UEFA Champions League Draw 2025/26</title>
 </programme>
 <channel id="vidio-20240">
   <display-name>Putri: Jakarta Popsivo Polwan vs Medan Falcons - Proliga</display-name>
@@ -78,11 +54,65 @@
 <programme start="20260227133000 +0000" stop="20260227153000 +0000" channel="vidio-205">
   <title>PSBS Biak vs PSIM Jogja - BRI Super League</title>
 </programme>
+<channel id="vidio-19541">
+  <display-name>Persipal FC vs Persiku Kudus - Pegadaian Championship</display-name>
+</channel>
+<programme start="20260227133000 +0000" stop="20260227160000 +0000" channel="vidio-19541">
+  <title>Persipal FC vs Persiku Kudus - Pegadaian Championship</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Levante vs Alaves - LaLiga</display-name>
+</channel>
+<programme start="20260227195500 +0000" stop="20260227220000 +0000" channel="vidio-6299">
+  <title>Levante vs Alaves - LaLiga</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Rayo Vallecano vs Athletic Club - LaLiga</display-name>
+</channel>
+<programme start="20260228125500 +0000" stop="20260228151500 +0000" channel="vidio-6299">
+  <title>Rayo Vallecano vs Athletic Club - LaLiga</title>
+</programme>
+<channel id="vidio-19541">
+  <display-name>FC Bekasi City vs PSMS Medan - Pegadaian Championship</display-name>
+</channel>
+<programme start="20260228132200 +0000" stop="20260228160000 +0000" channel="vidio-19541">
+  <title>FC Bekasi City vs PSMS Medan - Pegadaian Championship</title>
+</programme>
 <channel id="vidio-20240">
   <display-name>Putra: Jakarta Garuda Jaya vs Medan Falcons Tirta Bhagasasi - Proliga</display-name>
 </channel>
 <programme start="20260228133000 +0000" stop="20260228160000 +0000" channel="vidio-20240">
   <title>Putra: Jakarta Garuda Jaya vs Medan Falcons Tirta Bhagasasi - Proliga</title>
+</programme>
+<channel id="vidio-19354">
+  <display-name>Bali United FC vs PERSIJAP - BRI Super League</display-name>
+</channel>
+<programme start="20260228133000 +0000" stop="20260228153000 +0000" channel="vidio-19354">
+  <title>Bali United FC vs PERSIJAP - BRI Super League</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Barcelona vs Villarreal - LaLiga</display-name>
+</channel>
+<programme start="20260228151500 +0000" stop="20260228171500 +0000" channel="vidio-6299">
+  <title>Barcelona vs Villarreal - LaLiga</title>
+</programme>
+<channel id="vidio-20654">
+  <display-name>Spor Toto vs Galatasaray HDI Sigorta - Turkish Men's Volleyball League</display-name>
+</channel>
+<programme start="20260301095500 +0000" stop="20260301120000 +0000" channel="vidio-20654">
+  <title>Spor Toto vs Galatasaray HDI Sigorta - Turkish Men's Volleyball League</title>
+</programme>
+<channel id="vidio-19738">
+  <display-name>Fenerbahce Medicana vs Gaziantep Genclik Spor - Turkish Men's Volleyball League</display-name>
+</channel>
+<programme start="20260301125500 +0000" stop="20260301160000 +0000" channel="vidio-19738">
+  <title>Fenerbahce Medicana vs Gaziantep Genclik Spor - Turkish Men's Volleyball League</title>
+</programme>
+<channel id="vidio-19541">
+  <display-name>Persekat Tegal vs Adhyaksa FC - Pegadaian Championship</display-name>
+</channel>
+<programme start="20260301132200 +0000" stop="20260301160000 +0000" channel="vidio-19541">
+  <title>Persekat Tegal vs Adhyaksa FC - Pegadaian Championship</title>
 </programme>
 <channel id="vidio-20240">
   <display-name>Putri: Jakarta Livin Mandiri vs Jakarta Electric PLN Mobile - Proliga</display-name>
