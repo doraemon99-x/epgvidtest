@@ -1,3 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="vidio-19355">
+  <display-name>Jelang Kick Off - PERSEBAYA Surabaya vs PERSIB - BRI Super League</display-name>
+</channel>
+<programme start="20260302130000 +0000" stop="20260302133000 +0000" channel="vidio-19355">
+  <title>Jelang Kick Off - PERSEBAYA Surabaya vs PERSIB - BRI Super League</title>
+</programme>
+<channel id="vidio-19353">
+  <display-name>PSM Makassar vs PERSITA - BRI Super League</display-name>
+</channel>
+<programme start="20260302132200 +0000" stop="20260302160000 +0000" channel="vidio-19353">
+  <title>PSM Makassar vs PERSITA - BRI Super League</title>
+</programme>
+<channel id="vidio-19354">
+  <display-name>PERSEBAYA Surabaya vs PERSIB - BRI Super League</display-name>
+</channel>
+<programme start="20260302133000 +0000" stop="20260302160000 +0000" channel="vidio-19354">
+  <title>PERSEBAYA Surabaya vs PERSIB - BRI Super League</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Real Madrid vs Getafe - LaLiga</display-name>
+</channel>
+<programme start="20260302200000 +0000" stop="20260302220000 +0000" channel="vidio-6299">
+  <title>Real Madrid vs Getafe - LaLiga</title>
+</programme>
+<channel id="vidio-19355">
+  <display-name>Jelang Kick Off - PERSIJA vs Borneo FC Samarinda - BRI Super League</display-name>
+</channel>
+<programme start="20260303130000 +0000" stop="20260303133000 +0000" channel="vidio-19355">
+  <title>Jelang Kick Off - PERSIJA vs Borneo FC Samarinda - BRI Super League</title>
+</programme>
+<channel id="vidio-19354">
+  <display-name>PERSIJA vs Borneo FC Samarinda - BRI Super League</display-name>
+</channel>
+<programme start="20260303133000 +0000" stop="20260303153000 +0000" channel="vidio-19354">
+  <title>PERSIJA vs Borneo FC Samarinda - BRI Super League</title>
+</programme>
+<channel id="vidio-19385">
+  <display-name>Madura United FC vs Malut United FC - BRI Super League</display-name>
+</channel>
+<programme start="20260303133000 +0000" stop="20260303153000 +0000" channel="vidio-19385">
+  <title>Madura United FC vs Malut United FC - BRI Super League</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Rayo Vallecano vs Oviedo - LaLiga</display-name>
+</channel>
+<programme start="20260304180000 +0000" stop="20260304200000 +0000" channel="vidio-6299">
+  <title>Rayo Vallecano vs Oviedo - LaLiga</title>
+</programme>
 </tv>

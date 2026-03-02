@@ -1,1 +1,98 @@
-[]
+[
+    {
+        "schedule_id": 4922156,
+        "livestreaming_id": 19355,
+        "title": "Jelang Kick Off - PERSEBAYA Surabaya vs PERSIB - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/cZ4V1AUihC0lr5eOInl8TbSbzWE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4922156/1f2bd9.jpg",
+        "start_time": "2026-03-02T13:00:00.000Z",
+        "end_time": "2026-03-02T13:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4922156",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4922158,
+        "livestreaming_id": 19353,
+        "title": "PSM Makassar vs PERSITA - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/HrJ0UozzInq6UfpCmeUJHkmAHi4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4922158/fdbba2.jpg",
+        "start_time": "2026-03-02T13:22:00.000Z",
+        "end_time": "2026-03-02T16:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19353-bri-super-league?schedule_id=4922158",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4922157,
+        "livestreaming_id": 19354,
+        "title": "PERSEBAYA Surabaya vs PERSIB - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/uuH2RBYNhDzSgmXkvhF27_MuUQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4922157/e8fda6.jpg",
+        "start_time": "2026-03-02T13:30:00.000Z",
+        "end_time": "2026-03-02T16:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4922157",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4937760,
+        "livestreaming_id": 6299,
+        "title": "Real Madrid vs Getafe - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/EGyUAuOvf6HI__a-BJEp32Vvk6A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937760/30dc18.jpg",
+        "start_time": "2026-03-02T20:00:00.000Z",
+        "end_time": "2026-03-02T22:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4937760",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4937706,
+        "livestreaming_id": 19355,
+        "title": "Jelang Kick Off - PERSIJA vs Borneo FC Samarinda - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/hTK0DvDmJMDIkl9YAx6UtRwhlTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937706/36bd5e.jpg",
+        "start_time": "2026-03-03T13:00:00.000Z",
+        "end_time": "2026-03-03T13:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19355-bri-super-league?schedule_id=4937706",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4937707,
+        "livestreaming_id": 19354,
+        "title": "PERSIJA vs Borneo FC Samarinda - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/jyvCD08goiepJI3L6z0kFxOfznI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937707/a7bb97.jpg",
+        "start_time": "2026-03-03T13:30:00.000Z",
+        "end_time": "2026-03-03T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19354-bri-super-league?schedule_id=4937707",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4937709,
+        "livestreaming_id": 19385,
+        "title": "Madura United FC vs Malut United FC - BRI Super League",
+        "league": "BRI Super League",
+        "channel": "BRI Super League",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/oa-nN2158_k7I0tjO27u3I_Xt-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937709/7ba3bc.jpg",
+        "start_time": "2026-03-03T13:30:00.000Z",
+        "end_time": "2026-03-03T15:30:00.000Z",
+        "web_url": "https://www.vidio.com/live/19385-bri-super-league?schedule_id=4937709",
+        "type": "livestreaming_schedule"
+    },
+    {
+        "schedule_id": 4937761,
+        "livestreaming_id": 6299,
+        "title": "Rayo Vallecano vs Oviedo - LaLiga",
+        "league": "LaLiga",
+        "channel": "LaLiga",
+        "cover_url": "https://thumbor.prod.vidiocdn.com/upuVAYyFJbB8FPpfd2TXPBMeuZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937761/0a5997.jpg",
+        "start_time": "2026-03-04T18:00:00.000Z",
+        "end_time": "2026-03-04T20:00:00.000Z",
+        "web_url": "https://www.vidio.com/live/6299-bein-1?schedule_id=4937761",
+        "type": "livestreaming_schedule"
+    }
+]
