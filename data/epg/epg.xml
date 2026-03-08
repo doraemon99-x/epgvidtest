@@ -1,3 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="vidio-19738">
+  <display-name>Bursa BBSK vs Akkus Bld - Turkish Men's Volleyball League</display-name>
+</channel>
+<programme start="20260308100000 +0000" stop="20260308130000 +0000" channel="vidio-19738">
+  <title>Bursa BBSK vs Akkus Bld - Turkish Men's Volleyball League</title>
+</programme>
+<channel id="vidio-18249">
+  <display-name>Ye Hong Wei/Nicole Gonzales Chan (TPE) vs Thom Gicquel/Delphine Delrue (FRA) - Mixed Doubles Final | YONEX All England Open Badminton Championships 2026</display-name>
+</channel>
+<programme start="20260308110000 +0000" stop="20260309000000 +0000" channel="vidio-18249">
+  <title>Ye Hong Wei/Nicole Gonzales Chan (TPE) vs Thom Gicquel/Delphine Delrue (FRA) - Mixed Doubles Final | YONEX All England Open Badminton Championships 2026</title>
+</programme>
+<channel id="vidio-20249">
+  <display-name>Fulham vs Southampton - FA Cup</display-name>
+</channel>
+<programme start="20260308115000 +0000" stop="20260308150000 +0000" channel="vidio-20249">
+  <title>Fulham vs Southampton - FA Cup</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Villarreal vs Elche - LaLiga</display-name>
+</channel>
+<programme start="20260308125500 +0000" stop="20260308150000 +0000" channel="vidio-6299">
+  <title>Villarreal vs Elche - LaLiga</title>
+</programme>
+<channel id="vidio-19738">
+  <display-name>Halkbank vs Ziraat Bankkart - Turkish Men's Volleyball League</display-name>
+</channel>
+<programme start="20260308130000 +0000" stop="20260308150000 +0000" channel="vidio-19738">
+  <title>Halkbank vs Ziraat Bankkart - Turkish Men's Volleyball League</title>
+</programme>
+<channel id="vidio-20288">
+  <display-name>Port Vale vs Sunderland - FA Cup</display-name>
+</channel>
+<programme start="20260308132000 +0000" stop="20260308163000 +0000" channel="vidio-20288">
+  <title>Port Vale vs Sunderland - FA Cup</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Getafe vs Real Betis - LaLiga</display-name>
+</channel>
+<programme start="20260308151500 +0000" stop="20260308171500 +0000" channel="vidio-6299">
+  <title>Getafe vs Real Betis - LaLiga</title>
+</programme>
+<channel id="vidio-20249">
+  <display-name>Leeds United vs Norwich City - FA Cup</display-name>
+</channel>
+<programme start="20260308162000 +0000" stop="20260308190000 +0000" channel="vidio-20249">
+  <title>Leeds United vs Norwich City - FA Cup</title>
+</programme>
+<channel id="vidio-6299">
+  <display-name>Sevilla vs Rayo Vallecano - LaLiga</display-name>
+</channel>
+<programme start="20260308173000 +0000" stop="20260308193000 +0000" channel="vidio-6299">
+  <title>Sevilla vs Rayo Vallecano - LaLiga</title>
+</programme>
 </tv>
