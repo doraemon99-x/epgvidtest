@@ -1,33 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="vidio-19355">
-  <display-name>Jelang Kick Off - PERSIB vs PERSIK Kediri - BRI Super League</display-name>
-</channel>
-<programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="vidio-19355">
-  <title>Jelang Kick Off - PERSIB vs PERSIK Kediri - BRI Super League</title>
-</programme>
-<channel id="vidio-19386">
-  <display-name>PSBS Biak vs Semen Padang FC - BRI Super League</display-name>
-</channel>
-<programme start="20260309133000 +0000" stop="20260309170000 +0000" channel="vidio-19386">
-  <title>PSBS Biak vs Semen Padang FC - BRI Super League</title>
-</programme>
-<channel id="vidio-19354">
-  <display-name>PERSIB vs PERSIK Kediri - BRI Super League</display-name>
-</channel>
-<programme start="20260309133000 +0000" stop="20260309170000 +0000" channel="vidio-19354">
-  <title>PERSIB vs PERSIK Kediri - BRI Super League</title>
-</programme>
-<channel id="vidio-20288">
-  <display-name>West Ham vs Brentford - FA Cup</display-name>
-</channel>
-<programme start="20260309192000 +0000" stop="20260309213000 +0000" channel="vidio-20288">
-  <title>West Ham vs Brentford - FA Cup</title>
-</programme>
-<channel id="vidio-6299">
-  <display-name>Espanyol vs Oviedo - LaLiga</display-name>
-</channel>
-<programme start="20260309200000 +0000" stop="20260309220000 +0000" channel="vidio-6299">
-  <title>Espanyol vs Oviedo - LaLiga</title>
-</programme>
 </tv>
